@@ -84,7 +84,7 @@ else
 fi
 
 [ -z "$NAMES" ] && \
-	NAMES="consul registrator db esc-pdv esc-caisse esc-adm back client"
+	NAMES="consul registrator db smtp esc-pdv esc-caisse esc-adm back client"
 
 for i in $NAMES; do
 
