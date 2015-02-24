@@ -73,7 +73,7 @@ else
 	CNTS["esc-adm"]="docker run -d -e SERVICE_80_NAME=esc-adm --link consul:consul -v $(pwd)/logs/adm:/var/log -P --name esc-adm $REGISTRY/esc-adm:$TAG"
 fi
 
-CNTS["smtp"]="docker run -d -e SERVICE_NAME=smtp --link consul:consul -P --name smtp $REGISTRY/smtp:$TAG"
+CNTS["smtp"]="docker run -d -e user=notification@escarcelle.net -e pass=notif512si -e SERVICE_NAME=smtp --link consul:consul -P --name smtp $REGISTRY/smtp:$TAG"
 
 CNTS["back"]="docker run -d -e PLATFORM=prod/dev -e SERVICE_NAME=back --link consul:consul -v $(pwd)/logs:/logs -P --name back $REGISTRY/back:$TAG"
 
