@@ -93,9 +93,10 @@ for i in $NAMES; do
 	docker rm $i > /dev/null 2>&1
 
 	if [ -z $DEV ]; then
-		[ "$i" != "registrator" ] && [ "$i" != "consul" ] && \
-			echo -e "$B >> pulling $REGISTRY/$i $W" && \
-			docker pull $REGISTRY/$CNT || exit $?
+		if [ "$i" != "registrator" ] && [ "$i" != "consul" ]; then
+			echo -e "$B >> pulling $REGISTRY/$i $W"
+			docker pull $REGISTRY/$CNT:$TAG || exit $?
+		fi
 	fi
 
 	echo -e "$B >> ${CNTS[$i]} $W"
