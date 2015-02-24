@@ -55,7 +55,7 @@ declare -A CNTS
 
 CNTS["consul"]="docker run -d -p 8400:8400 -p 8500:8500 -p 172.17.42.1:53:53/udp -h consul --name consul progrium/consul -server -bootstrap -advertise 172.17.42.1"
 
-CNTS["registrator"]="docker run -d --link consul:consul -v /var/run/docker.sock:/tmp/docker.sock --name registrator progrium/registrator consul://consul:8500"
+CNTS["registrator"]="docker run -d --link consul:consul -v /var/run/docker.sock:/tmp/docker.sock --name registrator gliderlabs/registrator consul://consul:8500"
 
 if [ ! -z $DEV ]; then
 	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db --volumes-from dbdata -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
