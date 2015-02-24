@@ -1,0 +1,9 @@
+1	hôte de caisse
+2	gestionnaire de stock
+3	responsable épicerie
+4	reservé
+5	andes1
+6	andes2
+7	andes3
+8	andes4
+9	administrateur

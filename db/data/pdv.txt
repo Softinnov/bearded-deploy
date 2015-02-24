@@ -1,0 +1,579 @@
+1	Epicerie A.N.D.E.S	1	\N	361	\N	494	43	636	44	\N	100000	\N	test	0	428	2008-03-26 15:50:46	2014-07-06 23:13:48	2014-04-18 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/501f73ac-00c4-11e1-80b1-e06995889f76
+2	Au Marché Conté	0	\N	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+3	A.I.R.E.S. 	1	\N	4	\N	486	104	488	105	\N	\N	\N	\N	0	92	2008-03-26 15:50:52	2014-05-30 08:58:30	2014-08-27 00:00:00	237	\N
+4	Epicerie Sociale Croix Rouge	0	\N	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+5	Epicerie sociale	0	\N	6	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+6	Epicerie solidaire les 4 Saisons	0	\N	7	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	2014-11-04 00:00:00	237	\N
+7	Assoc. Saint-Quentin Entraide	0	\N	8	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+8	Collectif des Associations Soissonnaises d'entraide	0	\N	9	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+9	Epicerie sociale	0	\N	10	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+10	Assoc. Game	0	\N	11	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+11	Association Point Rencontre	0	\N	12	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+12	Epicerie sociale	0	\N	13	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+13	Epicerie sociale	1	\N	14	\N	\N	\N	\N	\N	\N	\N	1	Adresse CCAS (qui porte l’épicerie) : 7 place Jules Ferry 05 000 GAP\
+Tel CCAS : 04 92 53 24 58	0	61	2008-03-26 15:50:52	2014-07-24 16:07:03	2014-09-21 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/c03ed015-ac1c-410b-91a4-6eab61a890af
+14	Epicerie MIR	1	\N	15	\N	\N	1128	\N	1129	\N	\N	1	Directeur Adjoint : Fabrice ETTORE	0	61	2008-03-26 15:50:52	2014-06-26 10:21:30	2015-02-28 00:00:00	237	\N
+15	CCAS	0	\N	16	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+16	Epicerie Sociale Nouzonville EPISOL	1	\N	17	\N	690	191	691	192	\N	\N	1	\N	0	211	2008-03-26 15:50:52	2014-08-21 13:55:06	2014-07-23 00:00:00	237	\N
+17	Association l'Escale	0	\N	18	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+18	Epicerie sociale	0	\N	19	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+19	Association Episol	0	\N	20	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+20	Epicerie sociale 	0	\N	21	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+21	Coup de Pouce	0	\N	22	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+22	L'épicerie sociale	0	\N	23	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+23	Epicerie sociale Croix Rouge	0	\N	24	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+24	Ent'aide à Narbonne contre l'exclusion	0	\N	25	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+25	Epicerie sociale	1	\N	26	\N	1604	459	1605	460	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 17:43:54	2014-11-29 00:00:00	237	\N
+26	Aliment'Action	0	\N	27	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+27	La boutique sociale  C.A.S.I.M.	1	\N	28	\N	694	195	695	196	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-01 15:31:32	2014-07-11 00:00:00	237	\N
+28	APEAS pour VIGIES	0	\N	29	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+29	Fédération Rayons de Soleil	0	\N	30	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+30	Association l'Epi Vert	0	\N	31	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+31	Episol	2	\N	32	\N	\N	1198	5409	1199	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-01 18:12:03	2014-11-07 00:00:00	237	\N
+32	Coup d'Pouce	1	\N	33	\N	4899	1124	\N	1125	\N	\N	\N	\N	0	61	2008-03-26 15:50:52	2014-06-19 17:46:54	2015-05-31 00:00:00	237	\N
+33	Accueil BoutiqueConseil (ABC)	0	\N	34	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+34	La Voix des Femmes	1	\N	35	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-03 13:18:06	2015-06-19 00:00:00	237	\N
+35	ANCA (Association Accueil Nord Cantal Alimentation)	0	\N	36	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+36	Centre Social ACAIQ de Basseau	0	\N	37	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+37	Centre social CAJ le Grand Font	0	\N	38	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+38	Epicerie Sociale La boutique/ ar stalig	0	\N	39	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+39	L'EPI VERT	0	\N	40	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+40	Comité d'entraide Epicerie Sociale	0	\N	41	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+41	EIDER (Espace itinérant d'aide alimentaire en pays du Buffecois)	1	\N	42	\N	2369	613	2370	614	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-30 13:34:03	2014-11-03 00:00:00	237	\N
+42	Epicerie sociale 	0	\N	43	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+43	CCAS - Mme Jocelyne Goulard	0	\N	44	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+44	La Boussole	1	\N	45	\N	1122	337	1123	338	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 19:35:03	2014-12-13 00:00:00	237	\N
+45	Maison des Consom'Acteurs-EpisoL	1	\N	46	\N	1092	335	1093	336	\N	\N	1	\N	0	378	2008-03-26 15:50:52	2014-07-03 12:31:55	2015-02-08 00:00:00	237	\N
+46	L'Epicerie Sociale	0	\N	47	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+47	Association A.D.M.R.	0	\N	48	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+48	EPICEA	2	\N	49	\N	1726	487	1727	488	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-08-01 11:28:09	2015-09-23 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/9bcf95ee-9078-4e3d-9ffb-74c56d564af4
+49	Secours Catholique	0	\N	50	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+50	Association Tulle Solidarité	0	\N	51	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+51	Epicerie sociale et solidaire Epi'Sourire	0	\N	52	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+52	Association Steredenn	0	\N	53	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+53	Association CASCI Epicerie Solidaire La Source	1	\N	54	\N	3024	762	3025	763	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-02 18:14:11	2015-02-14 00:00:00	237	\N
+54	Le Magasin	0	\N	55	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+55	Le Panier Bourcain	0	\N	56	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+56	Ass Le Mistraou	0	\N	57	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+57	Assoc. Epicerie Sociale et Pédagogique	0	\N	58	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+58	Epices 	0	\N	59	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+59	association EPIREUIL	1	\N	60	\N	4047	953	7644	954	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-05 15:53:05	2015-06-13 00:00:00	237	\N
+60	Ass Chrysalide	0	\N	61	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+61	Epicerie sociale du Secours catholique	0	\N	62	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+62	Epicerie Sociale 	2	\N	63	\N	3610	880	3611	881	\N	\N	\N	\N	0	2608	2008-03-26 15:50:52	2014-07-16 09:40:20	\N	237	\N
+63	A.F.T.A.M	0	\N	64	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+64	Epicerie Sociale La boutique	0	\N	65	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+65	Epicerie sociale de Quimper	0	\N	66	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+66	Epicerie Solidaire	2	\N	67	\N	681	185	682	186	\N	\N	1	\N	0	105	2008-03-26 15:50:52	2014-05-15 12:02:27	2014-08-03 00:00:00	237	\N
+67	Epicerie Sociale Association protestante d'assistance	0	\N	68	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+68	Ensemble pour l'espoir	0	\N	69	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+69	Episol (Croix Rouge)	0	\N	70	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+70	Cap Centre	0	\N	71	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+71	Le Cabas	0	\N	72	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+72	ESCALE	2	\N	73	\N	\N	1032	\N	1033	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 11:59:20	\N	237	\N
+73	Association La Passerelle 	0	\N	74	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+74	Association Solidarité 33	0	\N	75	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+75	AIPS (Association intercantonale de Prévention et de Solidarité)	0	\N	76	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+76	Panier des 4 saisons	0	\N	77	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+77	C.M.S. de Coutras	0	\N	78	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+78	L'Eypicerie	1	\N	79	\N	\N	62	\N	63	\N	\N	\N	\N	0	24	2008-03-26 15:50:52	2009-09-01 09:18:02	\N	237	\N
+79	Epicerie sociale du CCAS	0	\N	80	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+80	Association ENVOLS	1	\N	81	\N	622	167	623	168	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-23 16:02:16	2015-06-13 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/eabd8879-abeb-41ba-99e2-54d8affefebf
+81	Epicerie sociale l'Escale	0	\N	82	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+82	l'épicerie sociale	0	\N	83	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+83	Epicerie La Passerelle 	0	\N	84	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+84	Epicerie sociale Association Fougères Solidarité	0	\N	85	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+85	Epicerie Sociale	0	\N	86	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+86	Assoc. Coup de Pouce	0	\N	87	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+87	Assoc. Le Petit Plus	0	\N	88	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+88	Assoc. Assiette-Eco	1	\N	89	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-30 17:29:30	2015-07-05 00:00:00	237	\N
+89	Assoc. Gourmets Fûtés	0	\N	90	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+90	Assoc. L'Echo du Cœur	0	\N	91	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+91	Assoc. Le Sac à Malices	0	\N	92	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+92	Assoc. L'Ami de Pain	0	\N	93	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+93	Le Coup de Pouce 	0	\N	94	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+94	Pause panier	0	\N	95	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+95	Panier Garni, Point "E"	0	\N	96	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+96	GAF Secours Catholique	0	\N	97	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+97	Epicerie Sociale	0	\N	98	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+98	Assoc. La Boutique	0	\N	99	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+99	Epicerie sociale Sanclaudienne	0	\N	100	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+100	Assoc. L'Idéal	0	\N	101	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+101	Association Caba - Communauté de Montfort	0	\N	102	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+102	Assoc. La Ruche Landaise	0	\N	103	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+103	Sans Façon	0	\N	104	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+104	AssocIation "Clin d'œil"	0	\N	105	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+105	Assoc. L'Arbre à Pain	1	\N	106	\N	\N	675	\N	676	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-08-01 14:48:05	2015-09-22 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/f76383d9-4592-49a9-98e0-007e59b69e54
+106	La Passerelle	0	\N	107	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+107	Epicerie sociale Au p'tit marché 	0	\N	108	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+108	Boutique Alimentaire	0	\N	109	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+109	Le petit Pont de Laya	0	\N	110	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+110	Epices 	0	\N	111	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+111	AGORAé Saint Etienne	1	\N	112	\N	7481	1547	7482	1548	\N	\N	1	\N	0	2478	2008-03-26 15:50:52	2014-03-06 16:56:21	\N	237	\N
+112	Libre service du Secours Populaire	0	\N	113	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+113	CESAM	2	\N	114	\N	1673	361	1674	362	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-18 12:52:08	2015-04-13 00:00:00	237	\N
+114	Assoc. Bellevue, Epicerie communautaire	0	\N	115	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+115	Assoc. Au p'tit Plus	0	\N	116	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+116	Epicerie sociale AGORA	0	\N	117	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+117	Coopérative La Ruche Eco	0	\N	118	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+118	Le Panier Fleury	0	\N	119	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+119	Espace solidarité	0	\N	120	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+120	L'épicerie sociale	0	\N	121	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+121	EPI	0	\N	122	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+122	Eco-panier	0	\N	123	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+123	Assoc.La Halte du Cœur	0	\N	124	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+124	L'étape	0	\N	125	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	2015-01-31 00:00:00	237	\N
+125	Groupement d'Alimentation Familiale	0	\N	126	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+126	Groupement d'Alimentation Familiale	0	\N	127	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+127	Association Epicerie sociale	0	\N	128	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+128	Groupement d'Alimentation Familiale	0	\N	129	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+129	Secours Catholique	0	\N	130	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+130	Association Déclic	0	\N	131	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+131	Coup de pouce	0	\N	132	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+132	Assoc. La Source	0	\N	133	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+133	Assoc. Coup de pouce	0	\N	134	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+134	Epicerie sociale "l'Escale Berthevinoise"	0	\N	135	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+135	La ruche	0	\N	136	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+136	Assoc. OPDAM	1	\N	137	\N	3518	863	3519	864	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-17 15:22:30	2015-04-27 00:00:00	237	\N
+137	Espace solidarité	0	\N	138	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+138	Solidarité Nationale et internationale 	0	\N	139	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+139	Croix Rouge Francaise	0	\N	140	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+140	Agoraé Nancy	1	\N	141	\N	6273	1346	6274	1347	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-03 15:23:00	2015-02-21 00:00:00	237	\N
+141	Epicerie Solidaire - EPI SOL	0	\N	142	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+142	Le passage	0	\N	143	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+143	Coopérative alimentaire St Vincent de paul	0	\N	144	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+144	CCAS	0	\N	145	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+145	Assoc. L'épicerie solidaire	0	\N	146	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+146	Assoc. A Deux Mains	0	\N	147	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+147	E.A.I.S.	0	\N	148	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+148	Assoc. ACIER	0	\N	149	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+149	Epicerie solidaire TABGHA	1	\N	150	\N	6395	1375	6396	1376	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-26 17:24:48	2015-06-26 00:00:00	237	\N
+150	EPISOL	1	\N	151	\N	\N	902	4219	903	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-02 16:23:42	2015-07-07 00:00:00	237	\N
+151	Epicerie sociale	1	\N	152	\N	1500	449	1501	450	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 19:26:43	2015-02-19 00:00:00	237	\N
+152	Epicerie sociale	0	\N	153	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+153	Epicerie sociale Joséphine Baker	2	\N	154	\N	1307	391	1308	392	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 18:58:11	2015-01-03 00:00:00	237	\N
+154	AGORAé Lille	1	\N	155	\N	\N	1455	\N	1456	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-01 17:45:24	2015-04-19 00:00:00	237	\N
+155	Assoc. Epicerie Solidiare Citoyenne 	0	\N	156	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+156	Assoc. Melissa	1	\N	157	\N	5539	1212	5540	1213	\N	\N	\N	\N	0	61	2008-03-26 15:50:52	2014-07-07 17:48:04	2015-03-16 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/253fa543-2151-450a-8af1-58d8f13114b2
+157	Assoc. L'escale	0	\N	158	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+158	Epicerie sociale Emmaüs	1	\N	159	\N	1244	263	1825	264	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-31 16:33:21	2014-09-28 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/c9241a50-8881-421d-a1fa-5152399181ff
+159	Centre social rural	1	\N	160	\N	3427	845	3428	846	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-02 17:58:22	2015-04-14 00:00:00	237	\N
+160	Collectif associatif Entraide la Source	0	\N	161	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+161	Epicerie Sociale 	0	\N	162	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+162	Entr'Aides à Compiègne Contre l'Exclusion 	1	\N	163	\N	1322	395	1323	396	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-30 15:59:15	2015-03-30 00:00:00	237	\N
+163	Sésame	0	\N	164	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+164	Centre Social Rural	1	\N	165	\N	662	181	\N	182	\N	\N	\N	\N	0	2126	2008-03-26 15:50:52	2013-07-18 15:04:36	2013-08-31 00:00:00	237	\N
+165	L'Etape Méruvienne	0	\N	166	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+166	Le Relais	1	\N	167	\N	\N	322	\N	323	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-27 16:21:05	2015-01-03 00:00:00	237	\N
+167	CESAM Centre d'économie sociale de d'aide municipale 	2	\N	168	\N	3867	928	3868	929	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-25 15:54:11	2015-07-28 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/bd330413-e2fb-4b67-a323-11430a21b565
+168	LSS / Libre service social	0	\N	169	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+169	Au P'tit Plus -  Epicerie Solidaire	2	\N	170	\N	5457	1204	5459	1205	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-27 18:53:51	2015-01-28 00:00:00	237	\N
+170	Assoc. EPICEA	1	\N	171	\N	3349	834	3350	835	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-10 14:54:24	2015-04-14 00:00:00	237	\N
+171	Calepi Epicerie sociale du Toit	1	\N	172	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-13 14:11:34	2015-02-19 00:00:00	237	\N
+172	Actishop	1	\N	173	\N	1431	424	1432	425	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-02 18:35:14	2014-11-15 00:00:00	237	\N
+173	Epicerie Sociale Au rayon de Soleil	0	\N	174	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+174	Epicerie Sociale de Liévin Association PACTE	0	\N	175	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+175	Assoc. EPI	0	\N	176	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+176	Assoc.Epi Soleil	0	\N	177	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+177	Epicerie Sociale Elgarri	0	\N	178	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+178	Collectif alimentaire de Lons	0	\N	179	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+179	Assoc. Le Coup' Faim 	0	\N	180	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+180	Association Repartir Epicerie sociale	0	\N	181	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+181	Association Les Epis	0	\N	182	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+182	L'Escal 	0	\N	183	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+183	Croix rouge Francaise	0	\N	184	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+184	Association Passage	0	\N	185	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+185	Epicerie sociale/ Croix Rouge Française	0	\N	186	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+186	Association Episode	0	\N	187	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+187	Le Moulin de l'Espoir	0	\N	188	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+188	Association Paprika	0	\N	189	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+189	Boutique alimentaire / Secours Catholique	0	\N	190	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+190	Association Tremplin Neuhof	0	\N	191	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+191	Association Point d'Appui	0	\N	192	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+192	Caritas Secours Catholique - Boutique Alimentaire	0	\N	193	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+193	Boutique Sociale "Rebond"	0	\N	194	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+194	CHRS Le bon foyer	0	\N	195	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+195	Caritas Secours Catholique d'Alsace - Boutique Alimentaire-	0	\N	196	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+196	Epicerie Sociale	1	\N	197	\N	2561	677	2532	678	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-02 17:55:49	2014-11-15 00:00:00	237	\N
+197	CADIS	0	\N	198	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+198	La passerelle d'eau de Robec	0	\N	199	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+199	Alis ADN Service	0	\N	200	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+200	Rayon de Soleil	0	\N	201	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+201	Espace Createur de Solidarites	1	\N	202	\N	643	171	\N	172	\N	\N	1	\N	0	123	2008-03-26 15:50:52	2014-08-27 09:01:07	2015-05-16 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/a3888a91-7232-44f0-bb58-89bc036842e6
+202	Entraide Tararienne	0	\N	203	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+203	Assoc. Le Mas (Magasin Alimentaire Social)	0	\N	204	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+204	Assoc. Les amis du petit marché	1	\N	205	\N	3790	911	\N	912	\N	\N	1	\N	0	1277	2008-03-26 15:50:52	2014-07-10 08:31:22	2015-04-18 00:00:00	237	\N
+205	Epicerie Sociale	0	\N	206	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+206	Le panier econome	0	\N	207	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+207	Epicerie Sociale Au Panier Bressan	0	\N	208	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+208	L'EPICERIE	2	\N	209	\N	\N	600	2262	601	\N	\N	1	\N	0	675	2008-03-26 15:50:52	2014-04-22 14:37:17	2013-04-15 00:00:00	237	\N
+209	GAF Allonnes	0	\N	210	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+210	Les Sources 	0	\N	211	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+211	Centre Social 	1	\N	212	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-09 16:33:42	2015-01-07 00:00:00	237	\N
+212	Assoc. Arc en ciel	0	\N	213	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+213	GAF groupement Aliment Familial Sablons	0	\N	214	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+214	Hôtel de Ville -Le Panier Sabolien -	0	\N	215	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+215	Association Coup de Pouce	0	\N	216	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+216	AILES	1	\N	217	\N	\N	369	\N	370	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-15 15:19:17	2015-07-11 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/c33c758c-8e8e-4032-b066-519702acbd8e
+217	 Epicerie Sociale Soleil et saveur	0	\N	218	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+218	Les Paniers de l'Amitié - Epicerie Sociale - 	0	\N	219	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+219	Epicerie sociale A.I.D.E.R.S.	1	\N	220	\N	5251	1173	5252	1174	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-19 16:47:15	2015-07-12 00:00:00	237	\N
+220	Porte ouverte et Solidarité du 13ème	1	\N	221	\N	\N	363	1230	364	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-24 14:55:35	2015-07-04 00:00:00	237	20031887
+221	Corot Entraide	0	\N	222	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+222	FORMATION	1	\N	223	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2008-03-26 15:50:52	2009-12-01 17:34:18	\N	237	\N
+223	Assoc La courte Echelle	0	\N	224	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+224	Magaliménil	0	\N	225	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+225	CCAS	0	\N	226	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+226	Assoc. Le Quotidien	1	\N	227	\N	2488	605	2482	606	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-02 18:24:38	2014-11-09 00:00:00	237	\N
+227	Assoc exister	0	\N	228	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+228	CCAS	0	\N	229	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+229	Epicerie Sociale - CCAS -	2	\N	230	\N	1384	403	1385	404	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 19:56:53	2014-12-22 00:00:00	237	\N
+230	Equipe Saint Vincent de Paul, Le Havre Ouest Saint Michel	0	\N	231	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+231	Epicerie Sociale 	2	\N	232	\N	7700	1566	7701	1567	\N	\N	1	\N	0	2401	2008-03-26 15:50:52	2014-05-13 10:18:27	2015-03-19 00:00:00	237	\N
+232	Assoc. Mille Couleurs	0	\N	233	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+233	Epicerie Solepi	0	\N	234	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+234	Lysea	1	\N	235	\N	692	193	693	194	\N	\N	\N	\N	0	163	2008-03-26 15:50:52	2009-06-26 16:45:02	2013-01-27 00:00:00	237	\N
+235	Coup de pouce	0	\N	236	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+236	Association Mélissa	1	\N	237	\N	3480	851	3481	852	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-12 16:56:03	2015-05-26 00:00:00	237	\N
+237	L'autre Rive	0	\N	238	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+238	Association E.L.L.S.A.	1	\N	239	\N	1710	482	1711	483	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-22 12:51:45	2015-05-30 00:00:00	237	\N
+239	CCAS - Mairie	0	\N	240	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+240	Epicerie  Sociale - Croix-Rouge -	0	\N	241	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+241	ACR (Agir, Combattre, Réunir)	0	\N	242	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+242	L'Escale	1	\N	243	\N	3935	934	6016	935	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-02 16:25:52	2015-06-13 00:00:00	237	\N
+243	Insertion Solidarité Autonomie	1	\N	244	\N	6338	1359	6339	1360	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-17 15:54:14	2015-03-12 00:00:00	237	\N
+244	Epicerie sociale Le Rebond	0	\N	245	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+245	Le caddie	0	\N	246	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+246	Assoc. La Passerelle	0	\N	247	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+247	Epicerie sociale	0	\N	248	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+248	Association l'Escale - Epicerie Cap'jeunes	1	\N	249	\N	6161	1334	6162	1335	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-01 17:13:00	2014-03-17 00:00:00	237	\N
+249	Assoc. Un toît en Gatîne	0	\N	250	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+250	Assoc .Epicerie Sociale Amiénoise UDAPIA	1	\N	251	\N	3540	865	3542	866	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-30 13:04:23	2015-05-29 00:00:00	237	\N
+251	Espace Solidaire	2	\N	252	\N	4123	986	4262	987	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-07-25 14:12:30	2015-10-09 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/2080bff9-1ba2-4c16-990e-56e8095d55e4
+252	Epicerie sociale de l'Albigeois	0	\N	253	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+253	Lou Mercat 	1	\N	254	\N	\N	59	\N	60	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-01 15:15:05	2014-09-07 00:00:00	237	\N
+254	Union associative Humanitaire caritative	1	\N	255	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-16 13:18:06	2015-04-16 00:00:00	237	\N
+255	Garrigues	0	\N	256	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+256	Association VIGIES	1	\N	257	\N	595	151	596	152	\N	\N	1	\N	0	428	2008-03-26 15:50:52	2014-04-01 15:14:30	2014-07-16 00:00:00	237	\N
+257	Assoc. A.I.L.E.S.	0	\N	258	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+258	Secours Catholique - Epicerie Solidaire	0	\N	259	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+259	Epicerie solidaire	0	\N	260	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+260	Assoc. Graine d'I.D.	1	\N	261	\N	\N	333	\N	334	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-06-17 16:24:41	2015-07-19 00:00:00	237	\N
+261	Epicerie sociale - CCAS	0	\N	262	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+262	Epicerie solidaire	2	\N	263	\N	1047	316	1048	317	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-05-21 13:42:49	2015-03-07 00:00:00	237	\N
+263	Epicerie sociale Coup de Pouce	0	\N	264	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+264	Epicerie Sociale 	1	\N	265	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-10 17:38:46	2014-12-22 00:00:00	237	\N
+265	Association 	1	\N	266	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 18:18:10	2014-12-02 00:00:00	237	\N
+266	Epicerie Sociale "Coup de pouce"	0	\N	267	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+267	Epicerie coup de pouce	0	\N	268	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+268	Epicerie Solidaire Associative "l'Embellie"	0	\N	269	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+269	Epicerie sociale Eco-Panier	0	\N	270	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+270	La Courte Echelle	0	\N	271	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+271	Epicerie Sociale 	0	\N	272	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+272	Pain d'épices - Epicerie Sociale -	0	\N	273	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+273	Pom'cassis, aux Trois Cités	0	\N	274	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+274	La Bien Lotie	0	\N	275	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+275	Les Quatre Saisons - Epicerie Communautaire	1	\N	276	\N	\N	293	1010	294	\N	\N	1	\N	0	61	2008-03-26 15:50:52	2014-04-01 18:31:13	2014-11-29 00:00:00	237	\N
+276	L'eveil des couronneries - Epicerie Solidaire -	0	\N	277	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	2013-12-15 00:00:00	237	\N
+277	La Courte Echelle	0	\N	278	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+278	Epicerie Associative "Coup de Pouce"	0	\N	279	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+279	Epicerie Sociale (Secours Catholique)	0	\N	280	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+280	Libre Service de la Solidarité (Secours Populaire)	0	\N	281	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+281	Epicerie solidaire	0	\N	282	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:52	2008-03-26 15:50:52	\N	237	\N
+282	Epicerie sociale	0	\N	283	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+283	Assoc. Le petit ruisseau	0	\N	284	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+284	Assoc. Magali épicerie sociale	0	\N	285	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+285	Secours Populaire Francais	0	\N	286	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+286	Sucre d'Orge - Association -	1	\N	287	\N	\N	673	\N	674	\N	\N	\N	\N	0	754	2008-03-26 15:50:53	2010-11-08 09:52:31	2014-11-16 00:00:00	237	\N
+287	Grain de sel	0	\N	288	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+288	projet Episol	0	\N	289	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+289	Episode- Epicerie Sociale	0	\N	290	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+290	INTERMEDE	2	\N	291	\N	2627	690	2628	691	\N	\N	1	\N	0	61	2008-03-26 15:50:53	2014-04-29 11:33:19	2014-03-16 00:00:00	237	\N
+291	HALEM	0	\N	292	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+292	Assoc. La Passerelle du Soleil - Résidence Bergère -	0	\N	293	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+293	Carrefour des solidarites	0	\N	294	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+294	Assoc la Clé	0	\N	295	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+295	Assoc. L'épi	0	\N	296	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+296	Assoc. L'OASIS (Epicerie Sociale, Collectif de partenaires)	0	\N	297	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+297	Assoc. L'Etape	0	\N	298	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+298	Assoc la boutique	0	\N	299	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+299	Espace solidarité	0	\N	300	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+300	La Clairière	0	\N	301	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+301	Assoc. Escale	0	\N	302	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+302	Assoc. OASIS (Organisation des Acteurs de la Solidarité et de l'Insertion Sociale)	0	\N	303	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+303	Epicerie La Verrière	0	\N	304	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+304	Assoc. Libre Service Social (LSS)	0	\N	305	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+305	La Main à la Pâte - epiceire solidaire	0	\N	306	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+306	Epicerie Sociale La Ruche Croix-Rouge	0	\N	307	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+307	L'Epicerie	2	\N	308	\N	779	213	780	214	\N	\N	\N	\N	0	168	2008-03-26 15:50:53	2010-06-28 17:09:52	2012-08-02 00:00:00	237	\N
+308	Epicéas	1	\N	309	\N	829	231	830	232	\N	\N	1	\N	0	91	2008-03-26 15:50:53	2014-05-12 09:53:00	2014-08-09 00:00:00	237	\N
+309	epiceas	1	\N	\N	\N	357	39	358	40	\N	\N	\N	\N	0	16	2008-03-26 15:50:53	2008-08-25 11:45:10	\N	237	\N
+310	Assoc. La boutique alimentaire	0	\N	311	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+311	Assoc. L'A.M.I.E.	0	\N	312	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+312	Boutsol	0	\N	313	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+313	AUBE	0	\N	314	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+314	Boutique alimentaire Secours Catholique	0	\N	315	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+315	Epicerie sociale - CCAS	0	\N	316	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+316	Association Coup de pouce	0	\N	317	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+317	La boutique alimentaire	0	\N	318	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+318	Assoc. La Boutique	0	\N	319	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+319	Epicerie Solidaire EPI'SOL 	1	\N	320	\N	\N	1304	\N	1305	\N	\N	1	\N	0	61	2008-03-26 15:50:53	2014-08-07 16:19:47	2015-09-22 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/8914d602-f8b1-4971-8c23-e48be110141f
+320	Epicerie solidaire le Co-Pain	1	\N	321	\N	577	120	761	121	\N	\N	1	\N	0	61	2008-03-26 15:50:53	2014-04-01 17:08:12	2014-09-07 00:00:00	237	\N
+321	EPICERIE SOLIDAIRE 	1	\N	322	\N	5660	199	5662	200	\N	\N	1	\N	0	61	2008-03-26 15:50:53	2014-04-01 16:59:09	2014-09-01 00:00:00	237	\N
+322	Association Croix Rouge 	0	\N	323	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+323	Le grain de Sel	1	\N	324	\N	\N	656	\N	657	\N	\N	1	\N	0	428	2008-03-26 15:50:53	2014-04-02 18:56:57	2014-11-04 00:00:00	237	\N
+324	La court'Echelle	2	\N	325	\N	3154	798	3155	799	\N	\N	\N	\N	0	61	2008-03-26 15:50:53	2014-07-02 11:42:05	2015-03-09 00:00:00	237	\N
+325	Assoc. Le coup de pouce	0	\N	326	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+326	L'Escale A SUPPRIMER	1	\N	327	\N	1188	351	\N	352	\N	\N	\N	\N	0	2	2008-03-26 15:50:53	2010-08-02 15:40:00	\N	237	\N
+327	CCAS	0	\N	328	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+328	Epicerie Sociale	0	\N	329	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+329	Le Maillon	0	\N	330	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+330	A l'épi	0	\N	331	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+331	Epicerie sociale et solidaire "La pause"	0	\N	332	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+332	Assoc. Epicerie sociale d'Ermont	0	\N	333	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+333	CCAS - Marie	0	\N	334	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+334	Epicerie sociale - Le Grain d'Epice	0	\N	335	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+335	épicerie sociale	0	\N	336	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+336	Epices et riz	1	\N	337	\N	1831	502	1832	503	\N	\N	\N	\N	0	61	2008-03-26 15:50:53	2014-05-27 16:30:27	2015-06-30 00:00:00	237	\N
+337	Epicerie Sociale Le Bel Epi	2	\N	338	\N	1191	355	1192	356	\N	\N	1	\N	0	61	2008-03-26 15:50:53	2014-05-14 11:51:18	2015-02-23 00:00:00	237	\N
+338	Association On Pal Pou Vansé	1	\N	339	\N	2115	491	2116	492	\N	\N	1	\N	0	1015	2008-03-26 15:50:53	2014-04-03 16:56:16	2014-07-18 00:00:00	237	\N
+339	FERMEE A.E.S.G. Association Epicerie Solidaire Guyanaise	1	\N	340	\N	601	154	\N	155	\N	\N	\N	\N	0	2	2008-03-26 15:50:53	2009-08-21 16:36:44	\N	237	\N
+340	Centre Alimentaire Pédagogique de l'Ouest  La Réunion	0	\N	341	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+341	Les Volontaires Dionysiens	0	\N	342	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	1	2008-03-26 15:50:53	2008-03-26 15:50:53	\N	237	\N
+342	Entr'Act	1	\N	400	\N	\N	64	\N	65	\N	\N	\N	\N	0	51	2009-03-17 14:59:59	2009-03-19 10:55:58	2013-08-03 00:00:00	237	\N
+343	TEST	3	TEST	408	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2009-03-20 10:26:00	2009-03-20 10:26:00	\N	237	\N
+344	EPICERIE SOLIDAIRE JOSIANE	1	\N	426	\N	683	87	1002	88	\N	\N	\N	\N	0	472	2009-04-30 11:45:30	2014-01-20 17:36:21	\N	237	\N
+345	EPICERIE SOLIDAIRE BREVINOISE	1	\N	427	\N	561	83	562	84	\N	\N	\N	\N	0	476	2009-04-30 11:45:55	2014-01-21 11:35:56	\N	237	\N
+346	LA FRATERNELLE - A RECYCLER OU SUPPR	2	\N	428	\N	3561	73	566	74	\N	\N	\N	\N	0	2	2009-04-30 11:46:16	2011-12-07 16:17:21	\N	237	\N
+347	Epicerie Solidaire  Brie Comte Robert	1	\N	429	\N	5289	77	563	78	\N	\N	\N	\N	0	61	2009-04-30 11:46:51	2014-08-14 19:52:24	2014-11-04 00:00:00	237	\N
+348	epiceriesolidaireacielouvert	1	\N	430	\N	559	81	966	82	\N	\N	\N	\N	0	475	2009-04-30 11:47:52	2011-02-21 10:33:00	\N	237	\N
+349	La Pioche	1	\N	440	\N	4177	97	\N	98	\N	\N	1	\N	0	428	2009-04-30 15:21:52	2014-04-01 15:12:47	2014-06-08 00:00:00	237	\N
+351	EPI SOL	2	\N	493	\N	970	108	972	109	\N	\N	\N	\N	0	2	2009-05-13 12:49:00	2012-11-06 15:34:26	\N	237	\N
+350	CABASSOL	2	\N	484	\N	518	113	519	114	\N	\N	\N	\N	0	94	2009-05-11 10:05:34	2009-05-14 16:08:47	2010-10-08 00:00:00	237	\N
+352	SOLIFLO	2	\N	495	\N	999	110	925	111	\N	\N	\N	\N	0	470	2009-05-13 12:52:11	2014-04-14 11:19:45	\N	237	\N
+353	formation	1	\N	498	\N	584	132	\N	133	\N	\N	\N	\N	0	1886	2009-05-13 14:48:50	2013-01-28 10:32:57	\N	237	\N
+354	ENVIE	1	\N	499	\N	580	130	581	131	\N	\N	\N	\N	0	182	2009-05-13 14:50:48	2010-02-22 19:57:41	\N	237	\N
+355	FORMATION Magali	1	\N	500	\N	586	134	587	135	\N	\N	\N	\N	0	183	2009-05-13 14:52:04	2014-01-20 09:58:17	\N	237	\N
+356	FORMATION à prendre	2	\N	501	\N	895	173	1022	174	\N	\N	\N	\N	0	1856	2009-05-13 14:53:24	2013-01-16 15:33:51	\N	237	\N
+357	FORMATION	1	\N	502	\N	\N	175	\N	176	\N	\N	\N	\N	0	2	2009-05-13 14:54:49	2009-12-01 17:50:23	\N	237	\N
+358	Demo	1	atelier insertion	503	\N	582	128	583	129	\N	\N	\N	\N	0	2486	2009-05-13 14:56:09	2014-06-06 17:50:24	\N	237	\N
+359	EPICERIE SOLIDAIRE FRED	1	\N	504	\N	1806	136	3257	137	\N	\N	\N	\N	0	473	2009-05-13 14:58:08	2012-03-19 14:35:18	\N	237	\N
+360	EPISOL	1	\N	505	\N	1000	124	1005	125	\N	\N	\N	\N	0	61	2009-05-13 14:59:33	2014-04-01 15:51:37	\N	237	\N
+361	Episol 59	1	\N	526	\N	8007	838	8010	839	\N	\N	1	\N	0	147	2009-05-15 16:53:09	2014-08-12 10:57:20	2014-08-31 00:00:00	237	\N
+362	Episol 59	1	\N	527	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2009-05-15 16:53:09	2009-05-15 16:53:09	\N	237	\N
+363	Au Petit Plus	1	\N	528	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2009-05-15 17:02:32	2009-05-15 17:02:32	2014-11-16 00:00:00	237	\N
+385	EpiSol	1	\N	1186	\N	2074	575	2075	576	\N	\N	1	\N	0	61	2010-01-13 10:20:00	2014-05-16 12:58:42	2015-05-31 00:00:00	237	\N
+364	 Croix Rouge	1	\N	639	\N	688	189	689	190	\N	\N	\N	\N	0	181	2009-06-08 10:52:55	2011-04-08 17:13:14	2012-07-14 00:00:00	237	\N
+365	Epicerie CCAS Pont Evèque	2	\N	671	\N	\N	1616	7935	1617	\N	\N	\N	\N	0	1456	2009-06-23 14:01:09	2014-07-21 14:40:18	2014-09-09 00:00:00	237	\N
+366	La musette	1	\N	740	\N	2218	203	\N	204	\N	\N	1	\N	0	61	2009-07-08 14:21:08	2014-04-01 17:18:15	2014-11-21 00:00:00	237	\N
+367	CCAS de Lodève	2	\N	759	\N	1890	207	1891	208	\N	\N	1	\N	0	61	2009-07-15 16:01:35	2014-06-09 14:39:26	2015-07-06 00:00:00	237	\N
+368	CCAS de Clermont l'Hérault	2	\N	760	\N	1725	397	\N	398	\N	\N	1	\N	0	61	2009-07-15 16:48:01	2014-07-11 17:55:47	2015-09-17 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/a7f4387f-9d9d-4a98-9baa-9adbcbe4985d
+369	Ti Degra de Cayenne 	3	Entreprise d'insertion	827	\N	901	253	902	254	\N	\N	1	\N	0	61	2009-08-21 16:37:48	2014-08-14 13:05:39	2014-07-21 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/b12c5ce7-c9ff-4098-bebf-1815329a108b
+370	Le Partage	1	\N	833	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2009-08-28 17:52:30	2009-08-28 17:52:30	\N	237	\N
+371	LA BOUS-SOL¹	1	\N	903	\N	938	255	939	256	\N	\N	1	\N	0	61	2009-09-24 11:02:55	2014-04-01 17:38:44	2014-09-23 00:00:00	237	\N
+372	Le Panier Garni	2	\N	905	\N	952	261	953	262	\N	\N	1	\N	0	428	2009-09-24 15:54:51	2014-07-31 15:05:44	2014-12-10 00:00:00	237	\N
+373	HORONIA EPICERIE SOLIDAIRE	1	\N	985	\N	\N	803	\N	804	\N	\N	\N	\N	0	299	2009-10-12 15:57:14	2011-03-21 10:23:36	2011-12-30 00:00:00	237	\N
+374	Epicerie de Croix	1	\N	986	\N	\N	984	4114	985	\N	\N	1	\N	0	61	2009-10-12 16:03:16	2014-04-01 18:51:29	\N	237	\N
+375	EPICERIE SOLIDAIRE DE RONCHIN	2	\N	987	\N	1006	289	1007	290	\N	\N	1	\N	0	61	2009-10-12 16:12:50	2014-07-02 11:16:46	2015-03-11 00:00:00	237	\N
+376	Epicerie de COURRIERES	1	\N	988	\N	1053	320	1454	321	\N	\N	1	\N	0	61	2009-10-12 16:18:09	2014-07-02 11:07:43	2014-12-16 00:00:00	237	\N
+377	Chevilly Larue	1	\N	994	\N	1893	470	1894	471	\N	\N	1	\N	0	61	2009-10-19 14:14:57	2014-04-01 20:07:45	2015-01-10 00:00:00	237	\N
+378	Tous Ensemble	1	\N	995	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2009-10-19 15:07:48	2014-04-01 18:47:59	2015-04-05 00:00:00	237	\N
+382	Les Saveurs du Marché	1	\N	1081	\N	1403	410	1404	411	\N	\N	1	\N	0	61	2009-11-12 15:01:57	2014-05-13 16:50:46	2014-12-26 00:00:00	237	\N
+379	KOUD'POUSS	1	\N	1020	\N	1214	357	1215	358	\N	\N	\N	\N	0	421	2009-10-22 16:31:29	2014-04-25 15:42:03	2014-03-10 00:00:00	237	\N
+380	EPI TROIS-PAYS	2	\N	1042	\N	5942	384	5944	385	\N	\N	1	\N	0	61	2009-10-28 12:39:31	2014-08-19 13:39:55	2015-01-15 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/de4a1ee1-2254-4c18-a300-b2712eda8e19
+381	LA POIRE EN DEUX	1	\N	1077	\N	1164	345	1165	346	\N	\N	1	\N	0	61	2009-11-10 16:15:06	2014-04-01 19:53:14	2014-12-29 00:00:00	237	\N
+383	Epicerie Solid'her	1	\N	1088	\N	1216	359	1565	360	\N	\N	1	\N	0	61	2009-11-17 15:44:46	2014-04-01 19:39:13	2014-12-20 00:00:00	237	\N
+384	LE BASTION	2	\N	1129	\N	1267	371	1268	372	\N	\N	\N	\N	0	61	2009-11-23 14:27:16	2014-08-01 14:04:36	2015-03-05 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/5ab47653-42ec-4e51-8d00-39f2c0fd62a2
+386	Epicerie Sociale 	2	\N	1309	\N	1311	393	1312	394	\N	\N	1	\N	0	61	2010-02-05 15:49:20	2014-04-02 18:58:37	2014-11-14 00:00:00	237	\N
+387	Epicerie L'Oustal	1	\N	1340	\N	1352	401	1353	402	\N	\N	1	\N	0	61	2010-02-08 16:38:21	2014-06-06 17:27:00	2015-07-06 00:00:00	237	\N
+388	Asso Nationale des Gens du Voyage	1	\N	1378	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2010-02-18 11:16:23	2010-02-18 11:16:23	\N	237	\N
+389	Epicerie Solidaire du centre socioculurel du Barbezilien	1	\N	1421	\N	1624	464	1625	465	\N	\N	1	\N	0	61	2010-03-01 12:58:41	2014-07-11 12:06:15	2015-05-30 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/d5380258-3eb0-4f2d-b502-fadbb3bd9e95
+390	Lescale 81	1	\N	1463	\N	\N	442	7703	443	\N	\N	1	\N	0	61	2010-03-05 10:53:17	2014-07-15 17:32:46	2015-06-01 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/76581562-b68a-4fa3-8fc3-e67185641c70
+391	Epicerie de Fruges	2	\N	1464	\N	1515	451	1516	452	\N	\N	1	\N	0	61	2010-03-05 11:28:14	2014-06-09 15:25:28	2015-05-31 00:00:00	237	\N
+392	BAS IMAGINE 84	1	\N	1511	\N	\N	472	\N	473	\N	\N	\N	\N	0	481	2010-03-19 11:28:04	2010-04-15 13:32:06	2011-06-01 00:00:00	237	\N
+393	Epicerie La Fourmi Gourmande	1	\N	1512	\N	\N	455	7942	456	\N	\N	1	\N	0	61	2010-03-19 11:33:08	2014-07-25 19:11:26	2015-06-09 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/e823eb94-e88b-4693-af94-7f5cfba93dfe
+394	Epicerie Sociale	2	\N	1513	\N	\N	891	7650	892	\N	\N	1	\N	0	1155	2010-03-19 12:28:13	2014-04-24 09:40:07	2014-06-08 00:00:00	237	\N
+395	Boutique Solidaire Foyalaise	1	\N	1547	\N	\N	1312	\N	1313	\N	\N	1	\N	0	61	2010-03-23 15:09:03	2014-04-02 15:34:57	2014-07-17 00:00:00	237	\N
+396	Epicerie Solidaire Droit Au Travail	1	\N	1559	\N	7521	1552	7522	1553	\N	\N	1	\N	0	61	2010-03-24 11:37:31	2014-06-26 16:09:32	2015-06-01 00:00:00	237	\N
+397	Le Trait d'Union	1	\N	1568	\N	1589	457	1590	458	\N	\N	1	\N	0	61	2010-03-29 10:39:18	2014-08-04 16:40:42	2015-07-06 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/79d7ffea-d4a4-40de-950a-90faa8573ff0
+398	Epicerie Solidaire des Amis de la Solidarité et de l'Insertion	1	\N	1580	\N	7880	480	7881	481	\N	\N	1	\N	0	61	2010-03-31 17:30:40	2014-07-09 16:43:05	2015-06-30 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/16e50750-bf97-4fdc-91d0-ce42b0fa8768
+399	Epicerie Solidaire Brévinoise	1	\N	1687	\N	2773	721	2774	722	\N	\N	1	\N	0	538	2010-04-26 12:32:42	2014-05-22 10:30:11	2014-11-23 00:00:00	237	\N
+400	LE PANIER DE L'EYRE	2	\N	1698	\N	1791	494	\N	495	\N	\N	1	\N	0	61	2010-04-27 16:44:22	2014-04-01 20:28:18	2015-01-03 00:00:00	237	\N
+401	Epicerie Croix Rouge L'EPICEA	1	\N	1715	\N	\N	510	\N	511	\N	\N	\N	\N	0	545	2010-04-30 18:07:09	2011-04-12 14:54:23	\N	237	\N
+402	Le Grenier des 4 saisons - CCAS de Puteaux	2	\N	1775	\N	\N	498	\N	499	\N	\N	1	\N	0	61	2010-05-27 11:02:53	2014-05-27 19:16:39	2015-05-10 00:00:00	237	\N
+405	L'Eclaircie	1	\N	1833	\N	2402	646	2403	647	\N	\N	1	\N	0	61	2010-06-09 15:43:19	2014-07-15 15:45:50	2015-07-01 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/9efa078d-22e7-476c-9298-d0ace7b093e7
+403	Epicerie Solidaire	1	\N	1829	\N	2147	587	2148	588	\N	\N	1	\N	0	61	2010-06-09 12:22:34	2014-04-02 17:04:40	2014-08-25 00:00:00	237	\N
+404	Le Petit Marché	1	\N	1830	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2010-06-09 12:36:25	2014-04-01 20:05:10	2014-07-07 00:00:00	237	\N
+406	Epi Est	1	\N	1865	\N	\N	539	\N	540	\N	\N	1	\N	0	61	2010-06-23 12:43:43	2014-07-23 17:14:44	2015-09-11 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/25a5b831-37e5-492a-9a42-659cf13a920d
+407	POTENTIEL	1	\N	1866	\N	2971	760	2972	761	\N	\N	\N	\N	0	596	2010-06-23 12:44:25	2012-02-15 12:26:59	2012-09-05 00:00:00	237	\N
+408	Epicerie 	1	\N	1895	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	61	2010-07-06 13:55:56	2014-08-14 15:42:04	2014-07-05 00:00:00	237	\N
+409	EPICERIE SOCIALE	2	\N	1942	\N	1958	514	1959	515	\N	\N	1	\N	0	61	2010-07-16 14:02:38	2014-04-02 17:34:08	2014-08-01 00:00:00	237	\N
+410	les 4 vents	1	\N	1952	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2010-07-21 15:48:09	2010-07-21 15:48:09	2014-11-21 00:00:00	237	\N
+411	Centre Socio Culturel du Cerizéen	1	\N	1954	\N	2090	577	2091	578	\N	\N	1	\N	0	1355	2010-07-21 17:01:10	2014-09-01 16:31:23	2015-08-30 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/4bdf0ada-c4cd-431c-8624-d024762537d7
+412	L'Escale	1	\N	2001	\N	2003	535	2004	536	\N	\N	1	\N	0	61	2010-08-02 15:40:04	2014-04-01 20:00:25	2014-12-02 00:00:00	237	\N
+413	Côté Cour	2	\N	2002	\N	2112	579	2544	580	\N	\N	1	\N	0	61	2010-08-02 16:17:18	2014-07-30 15:28:57	2015-08-31 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/bcb7273f-bb5d-4f33-9f21-d2f443c18e57
+414	EPICERIE SOCIALE ET SOLIDAIRE / ESS	1	\N	2109	\N	2404	592	2407	593	\N	\N	1	\N	0	61	2010-08-30 12:08:18	2014-04-02 16:18:51	2014-09-16 00:00:00	237	\N
+415	Epicerie Solidaire	2	\N	2126	\N	2129	583	2130	584	\N	\N	1	\N	0	61	2010-09-02 16:08:36	2014-08-04 14:44:50	2015-09-26 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/8de65b43-c2a9-4e4a-ada1-cc446e00b6e2
+416	L'Epicerie des 4 ponts	1	\N	2151	\N	\N	590	\N	591	\N	\N	1	\N	0	61	2010-09-07 11:04:52	2014-04-02 18:01:19	2014-10-17 00:00:00	237	\N
+429	L'Atelier	1	\N	2691	\N	3061	774	\N	775	\N	\N	1	\N	0	428	2010-12-14 16:36:43	2014-04-02 18:19:44	2015-01-17 00:00:00	237	\N
+417	Epicerie solidaire de la ville de DOLE	2	\N	2230	\N	4200	596	2241	597	\N	\N	1	\N	0	61	2010-09-15 14:32:11	2014-06-03 18:15:38	2015-06-08 00:00:00	237	\N
+418	BOUTIK SALEENNE	2	\N	2272	\N	2879	738	2880	739	\N	\N	1	\N	0	61	2010-09-24 10:59:18	2014-06-18 15:05:37	2014-11-09 00:00:00	237	\N
+419	le Panier du Talmondais	1	\N	2300	\N	2540	602	2947	603	\N	\N	1	\N	0	795	2010-09-29 15:00:16	2014-06-12 16:04:51	2014-11-15 00:00:00	237	\N
+420	La Galinesse	2	\N	2303	\N	\N	611	\N	612	\N	\N	1	\N	0	61	2010-09-30 11:47:36	2014-04-02 17:52:27	2014-08-12 00:00:00	237	\N
+421	Epicerie Solidaire de Lillebonne	2	\N	2323	\N	\N	1121	\N	1122	\N	\N	1	\N	0	61	2010-10-04 15:26:25	2014-04-02 18:27:08	2014-10-15 00:00:00	237	\N
+422	EPICERIE DU SOLEIL	1	\N	2326	\N	6224	1119	4858	1120	\N	\N	1	\N	0	61	2010-10-05 11:27:21	2014-04-02 18:40:58	2014-12-16 00:00:00	237	\N
+423	Epicerie Solidaire Maillol	1	\N	2337	\N	5818	962	5819	963	\N	\N	1	\N	0	61	2010-10-05 17:41:16	2014-06-12 16:57:43	2014-08-31 00:00:00	237	\N
+424	CROQ LA VIE	1	\N	2338	\N	2536	679	2537	680	\N	\N	1	\N	0	61	2010-10-06 10:26:56	2014-04-18 13:28:06	2015-03-10 00:00:00	237	\N
+425	Epi de Son	1	\N	2391	\N	5578	644	\N	645	\N	\N	\N	\N	0	725	2010-10-11 10:24:34	2013-10-01 10:44:11	2015-02-07 00:00:00	237	\N
+426	BRIN D'S POIRES	2	\N	2470	\N	2490	663	2491	664	\N	\N	1	\N	0	61	2010-11-02 10:52:43	2014-06-09 15:23:01	2015-04-03 00:00:00	237	\N
+427	Epicerie de Voiron ES Amandine	1	\N	2541	\N	2545	686	2546	687	\N	\N	1	\N	0	428	2010-11-15 16:00:26	2014-04-02 18:34:35	2014-01-17 00:00:00	237	\N
+428	Epicerie de Billom	1	\N	2565	\N	2736	713	2737	714	\N	\N	1	\N	0	428	2010-11-22 13:27:16	2014-04-02 18:33:57	2015-02-09 00:00:00	237	\N
+430	Epicerie le Coup d'Oeil	1	\N	2713	\N	2935	749	2934	750	\N	\N	\N	\N	0	61	2010-12-16 12:04:31	2014-05-30 12:59:17	2015-02-13 00:00:00	237	\N
+431	Epicerie	1	\N	2723	\N	2857	736	2858	737	\N	\N	\N	\N	0	808	2010-12-20 12:43:10	2011-01-20 13:49:59	2012-01-09 00:00:00	237	\N
+432	Vivre Ensemble En Provence	1	\N	2724	\N	2757	717	2758	718	\N	\N	\N	\N	0	61	2010-12-20 16:35:54	2014-06-26 17:35:16	2015-03-10 00:00:00	237	\N
+433	Epicerie Solidaire Pédagogique du Lamentin	1	\N	2739	\N	\N	723	7678	724	\N	\N	1	\N	0	61	2010-12-28 15:17:44	2014-06-02 16:28:37	2015-04-04 00:00:00	237	\N
+434	Epicerie Sociale et Solidaire de Kermaria	2	\N	2786	\N	2804	725	2805	726	\N	\N	1	\N	0	61	2011-01-07 19:42:50	2014-04-17 16:03:20	2015-01-27 00:00:00	237	\N
+435	SOLIDAGO	1	\N	2835	\N	2838	730	2839	731	\N	\N	1	\N	0	428	2011-01-14 16:46:26	2014-04-02 18:18:30	2015-01-23 00:00:00	237	\N
+436	Epicerie de PLAN D'ORGON	1	\N	2876	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2011-01-18 15:18:14	2011-01-18 15:18:14	\N	237	\N
+474	EPICEA l'épicerie d' elles aussi	1	\N	4034	\N	4206	1008	4207	1009	\N	\N	1	\N	0	428	2011-10-03 10:17:39	2014-04-01 19:27:48	2014-10-09 00:00:00	237	\N
+438	Le Coup de Pouce	1	\N	3021	\N	3033	766	3034	767	\N	\N	1	\N	0	61	2011-02-15 12:24:10	2014-04-17 12:33:41	2015-03-23 00:00:00	237	\N
+437	Epicerie Solidaire des Sablons	1	\N	2953	\N	\N	755	\N	756	\N	\N	1	\N	0	61	2011-01-28 11:57:08	2014-06-03 18:34:58	2015-02-17 00:00:00	237	\N
+499	Le Marché Solidaire	1	\N	4712	\N	4757	1105	4758	1106	\N	\N	1	\N	0	61	2012-02-20 13:21:37	2014-04-29 15:15:47	2015-04-04 00:00:00	237	\N
+439	A Ciel Ouvert	1	\N	3046	\N	6743	772	6744	773	\N	\N	1	\N	0	428	2011-02-21 12:26:37	2014-04-02 18:12:48	2015-03-15 00:00:00	237	\N
+440	Epicerie solidarité  Dom Tom Hérault/csf	1	\N	3073	\N	\N	796	\N	797	\N	\N	\N	\N	0	901	2011-02-28 14:32:06	2011-03-01 11:16:19	2012-03-13 00:00:00	237	\N
+441	Chez SERGE	2	\N	3131	\N	3202	816	3203	817	\N	\N	1	\N	0	61	2011-03-16 11:45:05	2014-07-22 16:52:05	2015-06-14 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/6ff7fb2d-1146-4746-87df-5ea1e3759ab9
+442	Epicerie de Saint Germain du Puy	2	\N	3175	\N	\N	1576	7676	1577	\N	\N	1	\N	0	61	2011-03-21 18:11:50	2014-07-18 11:52:32	2015-04-04 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/962ba443-e817-4732-a329-3683a96e6673
+443	CCAS de Grabels	2	\N	3178	\N	3179	810	3180	811	\N	\N	1	\N	0	428	2011-03-22 13:04:59	2014-04-02 18:04:13	2014-05-19 00:00:00	237	\N
+444	Épicerie Solidaire - MAS	1	\N	3209	\N	\N	819	\N	820	\N	\N	1	\N	0	428	2011-03-29 11:45:29	2014-04-02 18:01:50	2015-04-04 00:00:00	237	\N
+445	SESAME	2	\N	3212	\N	5905	821	\N	822	\N	\N	1	\N	0	61	2011-03-29 14:34:12	2014-06-09 14:36:22	2015-06-07 00:00:00	237	\N
+446	SOLEPI	1	\N	3219	\N	3246	823	3247	824	\N	\N	1	\N	0	925	2011-03-30 12:10:41	2014-08-05 23:01:36	2015-03-31 00:00:00	237	\N
+447	Epicerie Lafamisol	1	\N	3245	\N	3254	825	3255	826	\N	\N	1	\N	0	428	2011-04-01 11:00:09	2014-04-02 17:59:52	2015-04-08 00:00:00	237	\N
+448	REVE D'ENFANT	1	\N	3354	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2011-04-15 15:44:08	2014-08-01 11:04:02	2015-04-20 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/2f83cc95-82c2-4ece-a65e-2806ba7a5d88
+449	EL FOUAD	1	\N	3361	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	428	2011-04-19 11:38:24	2014-04-02 17:54:28	2012-09-20 00:00:00	237	\N
+450	TIPI	1	\N	3371	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	61	2011-04-19 17:46:13	2014-05-30 16:08:34	2015-04-25 00:00:00	237	\N
+451	Epicerie Solidaire de Calade	1	\N	3384	\N	\N	843	\N	844	\N	\N	1	\N	0	61	2011-04-20 15:46:29	2014-07-02 12:32:11	2015-06-16 00:00:00	237	\N
+452	LA FRATERNITE DE SAINT VINCENT DE PAUL	1	\N	3458	\N	\N	1572	\N	1573	\N	\N	1	\N	0	61	2011-05-02 18:00:47	2014-07-18 12:18:34	2015-06-19 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/7afc5588-5222-45a2-acac-e6bafb9383d5
+453	Alternative 119	1	\N	3470	\N	3870	893	3700	894	\N	\N	1	\N	0	61	2011-05-04 12:10:49	2014-06-12 16:53:58	2015-05-26 00:00:00	237	\N
+454	EPICERIE SOLIDAIRE LA LIBERTE 	1	\N	3555	\N	\N	871	\N	872	\N	\N	1	\N	0	61	2011-05-19 12:59:36	2014-07-23 16:34:10	2015-09-26 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/f11ca158-48e3-4352-a461-d81eb7d0b9b1
+455	Epicerie Sociale LA COURT'ECHELLE	2	\N	3574	\N	\N	887	\N	888	\N	\N	1	\N	0	2607	2011-05-23 16:48:21	2014-07-16 20:15:49	2015-06-05 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/1ebfc43a-14a7-4b7e-9146-e4a2806af1d3
+456	Mille et une histoires	1	\N	3633	\N	3701	889	3702	890	\N	\N	\N	\N	0	1059	2011-05-31 13:30:48	2011-07-04 11:57:35	2011-09-26 00:00:00	237	\N
+457	Association le Petit Marché	1	\N	3687	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2011-06-28 17:15:52	2014-08-14 17:34:55	2014-10-13 00:00:00	237	\N
+458	Epicerie de Carcassonne	1	\N	3717	\N	\N	900	\N	901	\N	\N	\N	\N	0	1079	2011-07-07 12:56:19	2011-10-21 11:27:40	\N	237	\N
+459	Pain d'Epices	1	\N	3729	\N	3735	905	3736	906	\N	\N	1	\N	0	428	2011-07-12 18:00:58	2014-04-02 17:31:47	2014-10-02 00:00:00	237	\N
+460	Epicerie Solidaire d'Auriol	2	\N	3774	\N	\N	924	3854	925	\N	\N	1	\N	0	428	2011-07-19 12:56:48	2014-04-02 17:31:00	2014-12-01 00:00:00	237	\N
+461	Association Oxygène	1	\N	3789	\N	3877	930	3878	931	\N	\N	\N	\N	0	1090	2011-07-21 13:03:40	2014-01-30 09:32:39	\N	237	\N
+462	EPICERIE SOLIDAIRE Association ISA	1	\N	3830	\N	3838	920	3839	921	\N	\N	1	\N	0	61	2011-08-01 14:40:07	2014-08-01 12:25:34	2015-08-23 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/665d4b44-4930-4926-84ff-b48305bc3208
+463	Epicerie Solidaire Etudiante du Réseau Fage	1	\N	3855	\N	\N	\N	\N	\N	\N	\N	1	\N	0	428	2011-08-12 14:24:45	2014-04-02 17:28:39	2013-10-30 00:00:00	237	\N
+464	Epicerie Sociale et Solidaire 	2	\N	3856	\N	4769	1109	4770	1110	\N	\N	1	\N	0	1110	2011-08-12 14:32:36	2014-08-21 14:32:26	2014-10-10 00:00:00	237	\N
+465	CASIT	1	\N	3886	\N	\N	932	\N	933	\N	\N	1	\N	0	428	2011-08-29 11:58:35	2014-04-01 19:34:17	2014-10-10 00:00:00	237	\N
+466	Coup de Pouce	3	\N	3916	\N	4036	951	4037	952	\N	\N	1	\N	0	61	2011-09-02 17:13:27	2014-07-31 17:23:28	2015-10-05 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/69841199-68be-4f2f-bb8b-35025d5af4ab
+467	Epicerie RIT	1	\N	3918	\N	3967	941	3968	942	\N	\N	1	\N	0	1142	2011-09-05 19:10:19	2014-08-17 11:38:57	2014-11-02 00:00:00	237	\N
+468	Les Enfants d'Osiris	1	\N	3925	\N	\N	936	\N	937	\N	\N	\N	\N	0	1145	2011-09-06 13:32:40	2011-09-08 14:57:19	\N	237	\N
+469	Relais de la Solidarité	1	\N	3926	\N	5361	1054	5363	1055	\N	\N	1	\N	0	428	2011-09-06 14:51:39	2014-04-01 19:31:49	2014-12-09 00:00:00	237	\N
+470	Le ColiBry	1	\N	3964	\N	4537	1069	4538	1070	\N	\N	1	\N	0	428	2011-09-13 17:02:47	2014-04-01 19:30:46	2014-10-06 00:00:00	237	\N
+471	BETHEL SOLIDARITE	1	\N	3965	\N	4022	949	4023	950	\N	\N	1	\N	0	428	2011-09-14 16:59:53	2014-04-01 19:30:12	2014-11-09 00:00:00	237	\N
+472	Agora-E Nice	1	\N	3981	\N	4447	1056	4448	1057	\N	\N	1	\N	0	428	2011-09-20 15:49:20	2014-04-01 19:29:29	2013-10-19 00:00:00	237	\N
+473	Epicerie solidaire La source  VIE NOUVELLE	1	\N	4001	\N	\N	947	\N	948	\N	\N	1	\N	0	428	2011-09-28 12:45:59	2014-04-01 19:28:18	2014-10-10 00:00:00	237	\N
+475	EPI SOL MAISON DE QUARTIER DES PYRAMIDES	1	\N	4035	\N	\N	966	4081	967	\N	\N	1	\N	0	428	2011-10-03 10:50:31	2014-04-01 19:26:37	2014-11-07 00:00:00	237	\N
+476	SOLIDAMI	1	\N	4044	\N	4052	957	4053	958	\N	\N	1	\N	0	428	2011-10-03 12:12:21	2014-04-01 19:23:57	2014-11-30 00:00:00	237	\N
+477	ON PAL POU VANSE	1	\N	4063	\N	4157	998	4158	999	\N	\N	1	\N	0	428	2011-10-05 13:48:29	2014-04-01 19:23:09	2014-10-04 00:00:00	237	\N
+478	La main à la Pâte	1	\N	4064	\N	4169	1002	4170	1003	\N	\N	1	\N	0	428	2011-10-05 14:29:19	2014-04-01 19:22:10	2014-11-30 00:00:00	237	\N
+479	CCAS	2	\N	4110	\N	\N	1620	7944	1621	\N	\N	1	\N	0	61	2011-10-13 15:34:13	2014-07-31 17:38:06	2014-10-17 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/be621784-8233-4e37-9fdf-db00396ef853
+480	SOUBIC	1	\N	4133	\N	4746	994	4658	995	\N	\N	1	\N	0	61	2011-10-14 16:04:36	2014-08-27 13:12:10	2015-07-18 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/01a4a2d5-77f8-49df-97b8-6204f6095119
+481	SOL' EPI	1	\N	4140	\N	4155	996	4156	997	\N	\N	1	\N	0	61	2011-10-17 17:56:39	2014-07-31 17:08:11	2015-10-19 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/e9187828-9b15-490a-aa56-4840d2d43356
+482	Pause Solidarité	1	\N	4151	\N	4166	1000	4167	1001	\N	\N	1	\N	0	428	2011-10-18 14:52:56	2014-04-01 19:21:33	2012-10-05 00:00:00	237	\N
+483	Epicerie Solidaire de Salins les Bains	1	\N	4223	\N	4237	1016	4238	1017	\N	\N	1	\N	0	428	2011-10-27 16:53:28	2014-04-01 19:17:59	2014-11-14 00:00:00	237	\N
+484	l'Escale	2	\N	4270	\N	4465	1061	\N	1062	\N	\N	1	\N	0	61	2011-11-10 17:40:46	2014-06-18 12:27:06	2014-11-29 00:00:00	237	\N
+485	Association l'Envolée - le Comptoir	1	\N	4363	\N	\N	1614	7908	1615	\N	\N	1	\N	0	61	2011-11-30 17:48:25	2014-07-15 12:32:53	2015-01-09 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/26f1267f-cbae-4b18-9cb1-a7b5e73efd4e
+486	Epicerie sociale Figeac	2	\N	4383	\N	4396	1040	4397	1041	\N	\N	1	\N	0	1278	2011-12-07 09:46:54	2011-12-08 14:04:54	2014-12-26 00:00:00	237	\N
+487	L'ENVOL	2	\N	4387	\N	4402	1049	4403	1050	\N	\N	1	\N	0	428	2011-12-07 15:48:00	2014-04-01 18:59:37	2015-02-02 00:00:00	237	\N
+488	LA FRATERNELLE	2	\N	4388	\N	4584	1074	4585	1075	\N	\N	1	\N	0	428	2011-12-07 16:18:13	2014-04-01 19:11:50	2015-02-16 00:00:00	237	\N
+489	Epicerie solidaire de Vichy et ses ateliers	1	\N	4418	\N	4468	1063	4469	1064	\N	\N	\N	\N	0	1306	2011-12-12 16:28:18	2014-06-20 10:11:22	2015-01-03 00:00:00	237	\N
+490	L'Embarcadère - Entraide Ouvrière - Antenne Chinon	1	\N	4419	\N	7653	1568	7651	1569	\N	\N	1	\N	0	61	2011-12-12 17:49:30	2014-07-01 13:29:55	2015-01-02 00:00:00	237	\N
+491	CCAS	2	\N	4435	\N	\N	1058	\N	1059	\N	\N	1	\N	0	428	2011-12-16 13:31:34	2014-04-01 18:49:30	2015-01-03 00:00:00	237	\N
+492	Epicerie Vénissieux	1	\N	4467	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2011-12-26 12:53:21	2011-12-26 12:53:21	\N	237	\N
+493	EPI'SOL	2	\N	4485	\N	4510	1067	4511	1068	\N	\N	1	\N	0	61	2011-12-30 17:58:52	2014-06-09 15:20:26	2015-04-11 00:00:00	237	\N
+494	Epicerie de la Lys	1	\N	4546	\N	4643	1084	4644	1085	\N	\N	1	\N	0	61	2012-01-06 17:47:48	2014-05-09 16:33:57	2015-04-18 00:00:00	237	\N
+495	La Parenthèse	2	\N	4582	\N	4620	1078	4621	1079	\N	\N	1	\N	0	61	2012-01-12 17:09:10	2014-05-27 18:28:15	2015-03-29 00:00:00	237	\N
+496	EPICERIE  DU COEUR CCAS LA FARE LES OLIVIERS	2	\N	4598	\N	4993	1140	4994	1141	\N	\N	1	\N	0	61	2012-01-16 15:18:19	2014-04-17 15:49:39	2015-03-30 00:00:00	237	\N
+497	Reves	1	\N	4617	\N	\N	1094	4683	1095	\N	\N	\N	\N	0	61	2012-01-24 16:11:02	2014-05-27 16:43:01	2015-07-15 00:00:00	237	\N
+498	  * La Croisée des Chemins * Nîmes	1	\N	4651	\N	4689	1090	4692	1091	\N	\N	1	\N	0	61	2012-02-03 17:07:10	2014-06-03 16:28:05	2015-03-04 00:00:00	237	\N
+500	ES de l'Auxerrois	1	\N	4729	\N	4736	1103	4737	1104	\N	\N	1	\N	0	1614	2012-02-23 16:57:42	2014-07-02 12:16:31	2015-03-25 00:00:00	237	\N
+501	SOLEPI	1	\N	4731	\N	\N	1115	4845	1116	\N	\N	1	\N	0	61	2012-02-24 12:56:01	2014-08-04 17:18:37	2015-07-04 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/55957249-9cdc-4e70-9dca-d1553ad82c93
+502	Café de la Paix	1	\N	4759	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2012-03-06 19:16:30	2014-07-07 17:27:36	2015-05-24 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/25387b58-4001-4b1b-a779-c202cd5cb0a6
+503	Epicerie Sociale de Châteaurenard	1	\N	4764	\N	5312	1132	5248	1133	\N	\N	1	\N	0	428	2012-03-07 15:50:25	2014-04-01 18:37:08	2015-04-03 00:00:00	237	\N
+504	EPICERIE SOCIALE ET SOLIDAIRE DE GRADIGNAN	2	\N	4786	\N	4791	1113	4792	1114	\N	\N	1	\N	0	61	2012-03-14 17:04:38	2014-07-21 13:55:53	2015-07-29 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/1c69d7fb-5be7-4d35-925f-5388b074648c
+505	Mairie de Guilers	2	\N	4844	\N	\N	1130	\N	1131	\N	\N	1	\N	0	428	2012-03-20 11:47:15	2014-04-01 18:35:54	2015-04-02 00:00:00	237	\N
+506	ES K'DI LE COEUR	1	\N	4942	\N	5788	1271	7997	1272	\N	\N	1	\N	0	1470	2012-04-23 17:51:50	2014-08-06 09:42:36	2014-11-03 00:00:00	237	\N
+507	EPICERIE SOLIDAIRE JEUNE COALLIA	1	\N	4944	\N	\N	1366	\N	1367	\N	\N	1	\N	0	61	2012-04-24 12:20:15	2014-07-24 14:45:14	2015-08-26 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/83086d17-45e2-49e7-b4a7-c61b8ee42e6c
+508	CCAS POIX DE PICARDIE	2	\N	4945	\N	\N	\N	\N	\N	\N	\N	1	\N	0	428	2012-04-24 18:25:49	2014-04-01 18:29:49	2013-11-15 00:00:00	237	\N
+509	EPICERIE DE CHAMONIX	2	\N	4962	\N	4978	1138	4979	1139	\N	\N	1	\N	0	61	2012-04-27 16:36:44	2014-04-30 15:04:23	2014-07-22 00:00:00	237	\N
+510	Epicerie Solidaire du Bocage Bourbonnais	1	\N	4975	\N	5010	1143	5011	1144	\N	\N	1	\N	0	61	2012-05-02 18:17:15	2014-07-17 11:57:42	2015-05-08 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/49e2581e-46ca-4453-9b69-175dbd1a6786
+511	Alimentation Epicerie Economique (A2E) 	2	\N	5016	\N	\N	1147	\N	1148	\N	\N	1	\N	0	61	2012-05-14 16:34:49	2014-06-18 15:00:51	2015-06-14 00:00:00	237	\N
+512	Episol'ALES	1	\N	5035	\N	\N	1145	7705	1146	\N	\N	1	\N	0	61	2012-05-22 12:18:08	2014-05-22 13:06:09	2015-05-22 00:00:00	237	\N
+513	AU PTI PANIER	1	\N	5070	\N	5089	1149	5090	1150	\N	\N	1	\N	0	1551	2012-06-07 14:15:10	2014-05-15 10:58:07	2014-06-07 00:00:00	237	\N
+514	SOLICIALE_ Association Vivre Mieux	1	\N	5103	\N	5104	1154	5105	1155	\N	\N	1	\N	0	428	2012-06-13 11:29:38	2014-04-01 18:25:30	2014-07-04 00:00:00	237	\N
+515	EPICERIE SOCIALE ST-OMER	2	\N	5154	\N	5173	1163	5174	1164	\N	\N	1	\N	0	428	2012-07-03 11:34:29	2014-04-01 18:23:35	2014-10-04 00:00:00	237	\N
+516	Le Bol d'Air	1	\N	5169	\N	5209	1170	5210	1171	\N	\N	1	\N	0	61	2012-07-04 16:14:27	2014-06-20 19:17:19	2015-07-04 00:00:00	237	\N
+517	l'Epi	1	\N	5171	\N	5352	1188	5400	1189	\N	\N	1	\N	0	428	2012-07-04 18:00:00	2014-04-01 18:21:43	2014-10-02 00:00:00	237	\N
+518	Epicerie de Rieux Volvestre	1	\N	5336	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	2	2012-09-04 13:05:26	2012-09-04 13:05:26	\N	237	\N
+519	Epicerie du  SISPAH  de Tavaux	3	SISPAH	5355	\N	\N	1190	\N	1191	\N	\N	1	\N	0	1643	2012-09-11 14:04:57	2014-08-07 11:57:21	2014-09-19 00:00:00	237	\N
+520	Epicerie Solidaire	2	\N	5396	\N	\N	1195	\N	1196	\N	\N	1	\N	0	428	2012-09-19 12:04:18	2014-04-01 18:17:45	2014-09-23 00:00:00	237	\N
+521	EPICERIE SOLIDAIRE VANNES AGGLO	1	\N	5414	\N	\N	1200	\N	1201	\N	\N	\N	\N	0	1669	2012-09-25 15:08:51	2014-02-20 09:48:13	2014-10-02 00:00:00	237	\N
+522	AGORAE (faculté de Brest)	1	\N	5418	\N	\N	1202	\N	1203	\N	\N	1	\N	0	428	2012-09-25 16:09:34	2014-04-01 18:03:41	2014-02-24 00:00:00	237	\N
+523	Epicerie Solidaire du Port	2	\N	5419	\N	5611	1224	5612	1225	\N	\N	1	\N	0	61	2012-09-25 17:16:45	2014-07-24 16:30:03	2015-10-10 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/eb90d4b1-de23-4fa0-ba94-6b6859e14f29
+524	EpiSolBrie	1	\N	5442	\N	5465	1206	5466	1207	\N	\N	1	\N	0	428	2012-09-27 12:30:51	2014-04-01 18:01:07	2014-11-04 00:00:00	237	\N
+525	Epicerie Sociale d'Epinay	1	\N	5479	\N	\N	1208	\N	1209	\N	\N	\N	\N	0	61	2012-10-03 16:55:38	2014-08-14 19:58:41	2014-10-03 00:00:00	237	\N
+526	Epicerie Sociale de Groslay	1	\N	5480	\N	\N	1210	\N	1211	\N	\N	\N	\N	0	61	2012-10-03 17:12:15	2014-08-14 15:04:48	2014-01-20 00:00:00	237	\N
+527	E.S.S.D.A	1	\N	5495	\N	6573	1418	6574	1419	\N	\N	1	\N	0	61	2012-10-08 12:12:55	2014-05-26 19:18:44	2015-04-27 00:00:00	237	\N
+528	EPICERIE SOLIDAIRE - QND	1	\N	5516	\N	5847	1285	5848	1286	\N	\N	1	\N	0	61	2012-10-11 12:28:05	2014-07-15 15:36:44	2014-10-11 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/c2c6e168-b905-4e99-a658-1459e6a178b6
+529	Panier Gourmand	1	\N	5602	\N	\N	1281	\N	1282	\N	\N	1	\N	0	428	2012-10-30 16:35:36	2014-04-01 17:44:02	2014-11-23 00:00:00	237	\N
+530	Pain de Vie	1	\N	5634	\N	\N	1231	\N	1232	\N	\N	\N	\N	0	1752	2012-11-06 11:45:10	2012-11-09 09:53:18	2012-11-06 00:00:00	237	\N
+531	Epicerie de Saint Laurent du Maroni	3	Entreprise d'Insertion	5704	\N	5732	1252	5733	1253	\N	\N	1	\N	0	61	2012-11-19 17:34:06	2014-08-14 13:08:56	2014-02-15 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/44424ef0-8b16-46d5-8e6f-37954c2e7e20
+532	Centre Socio-Culturel d'Endoume	1	\N	5729	\N	\N	1254	\N	1255	\N	\N	1	\N	0	428	2012-11-21 16:18:40	2014-04-01 17:31:06	2015-01-07 00:00:00	237	\N
+533	Association France Espoir	1	\N	5906	\N	\N	1291	\N	1292	\N	\N	1	\N	0	428	2013-01-03 17:02:19	2014-04-01 17:39:25	2015-01-13 00:00:00	237	\N
+534	Epicerie Solidaire de la Guerche sur l'Aubois	2	\N	5921	\N	\N	1308	\N	1309	\N	\N	1	\N	0	61	2013-01-09 15:06:51	2014-06-18 12:07:08	2015-04-22 00:00:00	237	\N
+536	Fédération de Paris du Secours populaire Français (SPF75)	1	\N	5994	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	428	2013-01-23 14:19:35	2014-04-01 17:13:36	2015-01-16 00:00:00	237	\N
+535	Le panier malin	1	\N	5972	\N	5984	1306	5985	1307	\N	\N	1	\N	0	1850	2013-01-15 14:19:53	2014-04-18 23:31:26	2014-01-14 00:00:00	237	\N
+537	Epicerie sociale 	1	\N	5997	\N	6087	1320	6086	1321	\N	\N	1	\N	0	61	2013-01-24 12:02:56	2014-07-07 12:34:14	2015-03-04 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/c57c177e-30d8-4da9-9a52-5b579d2a48d1
+538	CCAS	2	\N	6017	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2013-01-29 15:11:03	2014-06-18 14:55:30	2015-05-20 00:00:00	237	\N
+539	ACLIA	1	\N	6030	\N	6198	1342	6199	1343	\N	\N	1	\N	0	1911	2013-02-01 12:45:27	2014-08-26 10:17:26	2015-02-04 00:00:00	237	\N
+540	ECOMAG	2	\N	6043	\N	\N	1318	\N	1319	\N	\N	1	\N	0	61	2013-02-05 15:01:55	2014-08-07 16:22:45	2015-02-28 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/b194aa16-9966-4637-bf85-76459827afba
+541	Epicerie Solidaire Franciscaine	1	\N	6076	\N	6431	1379	6432	1380	\N	\N	1	\N	0	428	2013-02-14 13:40:01	2014-04-01 17:16:30	2015-04-23 00:00:00	237	\N
+542	Epi Coeur	2	\N	6079	\N	6098	1324	6096	1325	\N	\N	1	\N	0	61	2013-02-14 16:36:02	2014-08-01 12:43:13	2015-09-09 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/bff57553-2ca6-4efd-ac3c-91e23bb46a8a
+543	Epicerie Sociale de Vernon	2	\N	6175	\N	6177	1338	6178	1339	\N	\N	1	\N	0	61	2013-03-19 10:33:47	2014-08-25 12:05:37	2014-09-05 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/e660bc93-5e9a-4fe6-842f-bd75ceae3827
+544	ASSOCIATION SOLIDARITE DEMETER	1	\N	6216	\N	6280	1351	6281	1352	\N	\N	1	\N	0	1994	2013-04-02 13:14:34	2014-06-25 09:57:26	2015-04-03 00:00:00	237	\N
+545	L'anneau de l'espoir solidarité 79	1	\N	6296	\N	6389	1371	6391	1372	\N	\N	1	\N	0	428	2013-04-18 16:24:30	2014-04-01 17:04:45	2015-02-26 00:00:00	237	\N
+546	La Main Tendue	1	\N	6401	\N	6466	1404	6467	1405	\N	\N	1	\N	0	61	2013-06-04 17:05:46	2014-05-26 19:09:17	2015-06-23 00:00:00	237	\N
+547	EPICERIE COUP DE POUCE CCAS	2	\N	6405	\N	6459	1402	6460	1403	\N	\N	1	\N	0	61	2013-06-05 18:17:25	2014-05-27 18:42:30	2015-06-05 00:00:00	237	\N
+548	Le Panier	1	\N	6501	\N	\N	1597	7753	1598	\N	\N	1	\N	0	2120	2013-06-21 15:23:23	2014-07-08 13:52:28	2015-06-24 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/25387b58-4001-4b1b-a779-c202cd5cb0a6
+549	CCAS de Bailleul	2	\N	6562	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2013-07-11 12:03:31	2014-07-25 19:40:07	2015-07-10 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/8f82e234-e048-44bb-a3c7-46371331ed2b
+550	Epicerie Solidaire du Puy En Velay	1	\N	6568	\N	\N	1422	\N	1423	\N	\N	1	\N	0	61	2013-07-19 17:45:04	2014-08-04 16:45:36	2015-09-09 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/16e8e835-7a79-42a0-821d-d094509da673
+551	Noun menm	1	\N	6595	\N	\N	1424	\N	1425	\N	\N	1	\N	0	61	2013-07-25 17:25:27	2014-06-06 17:16:21	2015-07-31 00:00:00	237	\N
+552	Epicerie Solidaire de la Picardie Verte	1	\N	6596	\N	6607	1428	6608	1429	\N	\N	1	\N	0	61	2013-07-26 13:39:10	2014-06-16 12:29:10	2015-07-03 00:00:00	237	\N
+553	ENTRAIDE	1	\N	6597	\N	6687	1434	6689	1435	\N	\N	1	\N	0	61	2013-07-26 13:47:45	2014-06-13 12:19:18	2014-07-28 00:00:00	237	\N
+554	3AB	1	\N	6617	\N	\N	1485	\N	1486	\N	\N	1	\N	0	61	2013-07-30 13:03:54	2014-07-25 13:38:21	2015-07-29 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/e0b6f96d-80ed-484b-98d9-143a4d1fd162
+555	Epicerie solidaire de l'Aude	1	\N	6673	\N	6694	1438	6695	1439	\N	\N	1	\N	0	61	2013-08-26 17:34:04	2014-08-25 16:32:49	2014-08-27 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/65ab986d-5561-484c-8a1c-8f36f56457b2
+556	La Passerelle	1	\N	6708	\N	6711	1442	6712	1443	\N	\N	1	\N	0	428	2013-08-30 12:14:34	2014-04-01 16:37:08	2015-01-01 00:00:00	237	\N
+557	Aurore	1	\N	6810	\N	6909	1475	6910	1476	\N	\N	\N	\N	0	61	2013-09-19 18:11:52	2014-08-19 15:21:41	2015-10-13 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/f1296d3a-0edf-429a-8e74-b85b30108748
+558	Epicerie Sociale et Solidaire Ti Bazar	1	\N	6857	\N	\N	1466	6860	1467	\N	\N	1	\N	0	2260	2013-10-01 17:13:51	2014-08-11 10:27:16	2014-10-01 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/028e8b2a-6a0a-4b62-8dd0-f569845eec65
+559	EPISOL Centre Social Vic Accueil	1	\N	6878	\N	\N	1498	\N	1499	\N	\N	1	\N	0	61	2013-10-07 13:36:43	2014-07-24 15:29:52	2015-10-08 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/1beb817d-a7d2-4750-a561-e9432fb4d7ea
+560	Epicerie Esibnkhaldoun	1	\N	6883	\N	\N	1490	\N	1491	\N	\N	1	\N	0	428	2013-10-08 10:52:40	2014-04-01 16:24:58	2014-10-07 00:00:00	237	\N
+561	AGORAE	1	\N	6951	\N	\N	\N	\N	\N	\N	\N	1	\N	0	428	2013-10-22 18:02:32	2014-04-01 16:24:02	2014-10-22 00:00:00	237	\N
+562	ÉPICERIE SOCIALE	2	\N	7069	\N	7150	1505	7151	1506	\N	\N	1	\N	0	61	2013-11-27 11:32:57	2014-04-28 20:00:47	2015-03-03 00:00:00	237	\N
+563	Mairie de Brunoy	1	\N	7106	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	61	2013-12-03 14:25:55	2013-12-03 14:25:55	\N	237	\N
+564	Epicerie Solidaire Anzinoise	1	\N	7128	\N	7130	1501	7131	1502	\N	\N	1	\N	0	61	2013-12-09 14:15:27	2014-06-06 17:23:14	2014-12-11 00:00:00	237	\N
+565	CCAS de Briec	2	\N	7218	\N	\N	1517	\N	1518	\N	\N	\N	\N	0	61	2014-01-06 22:39:53	2014-04-17 16:08:56	2015-02-20 00:00:00	237	\N
+566	Au Panier Partagé	2	\N	7240	\N	7243	1519	7244	1520	\N	\N	\N	\N	0	2397	2014-01-08 19:19:23	2014-05-15 15:29:58	2015-02-23 00:00:00	237	\N
+567	CCAS de Floirac	1	\N	7241	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	61	2014-01-08 19:46:29	2014-07-02 11:24:35	2015-03-25 00:00:00	237	\N
+568	Epicerie de Bergues	1	\N	7262	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	61	2014-01-13 20:05:29	2014-07-15 17:46:18	2015-06-09 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/8ad5dfab-6fca-4457-a43a-64ac78e68d63
+569	Epicerie de MONTREUIL LE GAST	3	\N	7263	\N	7304	1529	7305	1530	\N	\N	1	\N	0	428	2014-01-14 11:45:01	2014-04-01 16:00:35	2015-01-16 00:00:00	237	\N
+570	F.A.M. (FondaKtion André Malet)	1	\N	7298	\N	7831	1537	\N	1538	\N	\N	\N	\N	0	61	2014-01-20 18:47:18	2014-07-07 17:49:46	2015-01-20 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/7b60236a-bcd5-4248-84d9-0b847309754e
+571	Épicerie de Verneuil-sur-Avre	2	\N	7391	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	428	2014-02-12 11:00:16	2014-02-12 11:00:58	2015-02-20 00:00:00	237	\N
+572	CCAS	2	\N	7418	\N	7695	1582	\N	1583	\N	\N	1	\N	0	61	2014-02-19 18:23:45	2014-07-07 17:22:55	2015-03-02 00:00:00	237	https://apps.softinnov.fr/facturationzen/download/uuid/24f03fdd-2711-4317-9565-c52ce3b72dc8
+573	Association Le Pacte 14	1	\N	7605	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2014-04-08 19:50:34	2014-05-12 20:15:07	2015-04-13 00:00:00	237	\N
+574	Epicerie Saint Florent Sur Cher	1	\N	7620	\N	\N	\N	\N	\N	\N	\N	\N	\N	0	61	2014-04-15 18:45:06	2014-04-15 18:45:06	\N	237	\N
+575	Epicerie sociale de la ville de Lorient	2	\N	7684	\N	7745	1590	\N	1591	\N	\N	\N	\N	0	61	2014-05-06 13:13:27	2014-07-23 19:57:48	2015-07-06 00:00:00	238	https://apps.softinnov.fr/facturationzen/download/uuid/dd1f3a79-7ae4-4403-a707-1b1a088bf0db
+576	Centre Social des Escourtines de Marseille	1	\N	7696	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2014-05-12 19:57:32	2014-06-17 16:19:06	2015-05-14 00:00:00	237	\N
+577	CCAS d'Istres	2	\N	7742	\N	7782	1607	7783	1608	\N	\N	\N	\N	0	2553	2014-05-27 20:17:17	2014-06-10 09:03:50	\N	237	\N
+578	Entraide protestante	1	\N	7755	\N	\N	\N	\N	\N	\N	\N	1	\N	0	61	2014-06-03 18:48:14	2014-06-06 17:28:41	2015-06-01 00:00:00	237	\N

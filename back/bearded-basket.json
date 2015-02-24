@@ -1,0 +1,10 @@
+{
+	"client": [
+		{{range service "client"}}
+		"{{.Address}}:{{.Port}}{{end}}"
+	],
+	"httpdb": [
+		{{range service "httpdb"}}
+		"{{.Address}}:{{.Port}}{{end}}"
+	]
+}

@@ -1,0 +1,4 @@
+*.sql
+*.txt
+*.txt.gz
+bin
