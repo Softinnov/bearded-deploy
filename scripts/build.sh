@@ -20,8 +20,9 @@ G="\x1b[32m"
 B="\x1b[34m"
 W="\x1b[0m"
 
-USAGE="Usage: $0 [-p] [-i IMAGES] [-d FOLDER] [-t TAG]\n
--p :\tpush images (eg. back client)\n
+USAGE="Usage: $0 [-p] [-l] [-i IMAGES] [-d FOLDER] [-t TAG]\n
+  -p :\tpush images (eg. back client)\n
+  -l :\tnot pull first from regitry (default false)\n
   -i :\tspecifie which images to build\n
   -d :\tproject directory path (bearded-basket)\n
   -t :\ttag image (e.g 1.2)"
@@ -127,10 +128,19 @@ push() {
 	echo -e "$G >> $1 image done. $W"
 }
 
-while getopts "hd:i:t:p" opt; do
+pull() {
+	echo -e "$B >> Pulling $1 image... $W"
+	docker pull $REGISTRY/$1:$TAG || exit $?
+	echo -e "$G >> $1 image done. $W"
+}
+
+while getopts "hld:i:t:p" opt; do
 	case $opt in
 		i)
 			CNTS+=" $OPTARG"
+			;;
+		l)
+			PULL=true
 			;;
 		p)
 			PUSH=true
@@ -154,6 +164,14 @@ done
 if [ -z $CNTS ]; then
 	NEED=true
 	CNTS="db esc-pdv esc-adm esc-caisse smtp back client"
+fi
+
+# Pull images
+if [ -z $PULL ]; then
+	for i in $CNTS
+	do
+		pull $i
+	done
 fi
 
 for i in $CNTS

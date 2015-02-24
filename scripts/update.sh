@@ -15,18 +15,16 @@ B="\x1b[34m"
 W="\x1b[0m"
 
 USAGE="Usage: $0 [-d] [-i CONTAINERS] [-e ESC-FOLDERS] [-c CLIENT_FOLDER] [-t TAG]\n
-  -d :\tdeveloper mode\n
+  -d :\tdeveloper mode (default prod)\n
   -i :\tprecise which containers to run (default all) (eg. \"back client\")\n
-  -e :\tesc folders location (adm|caisse|pdv)\n
-  -c :\tclient folder\n
+  -e :\tesc folders location (adm|caisse|pdv) (developer mode)\n
+  -c :\tclient folder (developer mode)\n
   -t :\ttag image"
 
-DEV=""
 ESC=""
 CLI=""
 REGISTRY="preprod.softinnov.fr:5000"
 TAG="latest"
-NAMES=""
 
 while getopts "hdc:e:t:i:" opt; do
 	case $opt in
@@ -96,7 +94,7 @@ for i in $NAMES; do
 
 	if [ -z $DEV ]; then
 		[ "$i" != "registrator" ] && [ "$i" != "consul" ] && \
-			echo -e "$B >> pulling $REGISTRY/$i $W"
+			echo -e "$B >> pulling $REGISTRY/$i $W" && \
 			docker pull $REGISTRY/$CNT || exit $?
 	fi
 
