@@ -15,7 +15,7 @@ ADD consul-template.service /etc/service/consul-template/run
 
 RUN mkdir -p /etc/consul-templates
 
-ADD andes.conf /etc/consul-templates/andes.conf
+ADD esc.conf /etc/consul-templates/esc.conf
 
 VOLUME /var/log
 
