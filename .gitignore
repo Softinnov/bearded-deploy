@@ -2,3 +2,4 @@
 *.txt
 *.txt.gz
 bin
+logs
