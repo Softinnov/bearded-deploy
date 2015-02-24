@@ -95,7 +95,7 @@ for i in $NAMES; do
 	if [ -z $DEV ]; then
 		if [ "$i" != "registrator" ] && [ "$i" != "consul" ]; then
 			echo -e "$B >> pulling $REGISTRY/$i $W"
-			docker pull $REGISTRY/$CNT:$TAG || exit $?
+			docker pull $REGISTRY/$i:$TAG || exit $?
 		fi
 	fi
 
