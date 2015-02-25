@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 ####
 #  This script runs the new mysql slave server by doing the following steps:

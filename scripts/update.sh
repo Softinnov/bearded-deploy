@@ -8,6 +8,27 @@
 #    3. Pulls the docker image
 #    4. Runs the container
 ####
+####
+#
+#  Examples:
+#    Production (update all images):
+#      $ ./scripts/update.sh
+#    Production (update client and esc-pdv):
+#      $ ./scripts/update.sh -i "client esc-pdv"
+#
+#    Development of client and esc-pdv:
+#      $ ./scripts/update.sh -d -i "client esc-pdv" -c `pwd`/../bearded-basket/client -e `pwd`/../esc
+#
+#    For the `-e` flag, the architecture of esc has to be like:
+#      esc/
+#      ├── esc-adm/
+#      │   └── ...
+#      ├── esc-caisse/
+#      │   └── ...
+#      └── esc-pdv/
+#          └── ...
+#
+####
 
 R="\x1b[31m"
 G="\x1b[32m"
