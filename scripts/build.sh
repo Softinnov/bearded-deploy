@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ####
-#  This script builds all images and can also push them to the registry.
+#  This script pulls and then builds all images. It can also push them to the registry.
 #    - db
 #
 #    - esc-pdv
@@ -22,7 +22,7 @@ W="\x1b[0m"
 
 USAGE="Usage: $0 [-p] [-l] [-i IMAGES] [-d FOLDER] [-t TAG]\n
   -p :\tpush images (eg. back client)\n
-  -l :\tnot pull first from regitry (default false)\n
+  -l :\tdisable pull from regitry (default false)\n
   -i :\tspecifie which images to build\n
   -d :\tproject directory path (bearded-basket)\n
   -t :\ttag image (e.g 1.2)"
