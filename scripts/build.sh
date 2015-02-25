@@ -14,6 +14,17 @@
 #
 #    - client       (copies the client project here [docker build doesn't support symbolic links])
 ####
+####
+#
+#  Examples:
+#
+#    Development of client and esc-pdv WITH pull but NOT push (be sure to get last version from registry and from actual dev):
+#      $ ./scripts/build.sh -i "client esc-pdv" -d `pwd`/../bearded-basket
+#
+#    Development of back WITHOUT pull but WITH push (avoid fetching last version)
+#      $ ./scripts/build.sh -l -p -i "back" -d `pwd`/../bearded-basket
+#
+####
 
 R="\x1b[31m"
 G="\x1b[32m"

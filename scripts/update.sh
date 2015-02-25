@@ -16,6 +16,9 @@
 #    Production (update client and esc-pdv):
 #      $ ./scripts/update.sh -i "client esc-pdv"
 #
+#    Development of all:
+#      $ ./scripts/update.sh -d
+#
 #    Development of client and esc-pdv:
 #      $ ./scripts/update.sh -d -i "client esc-pdv" -c `pwd`/../bearded-basket/client -e `pwd`/../esc
 #
