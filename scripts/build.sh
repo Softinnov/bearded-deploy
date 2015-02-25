@@ -161,7 +161,7 @@ while getopts "hld:i:t:p" opt; do
 	esac
 done
 
-if [ -z $CNTS ]; then
+if [ -z "$CNTS" ]; then
 	NEED=true
 	CNTS="db esc-pdv esc-adm esc-caisse smtp back client"
 fi
