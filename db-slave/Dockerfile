@@ -1,4 +1,4 @@
-FROM softinnov/prod-db
+FROM preprod.softinnov.fr:5000/db
 MAINTAINER Ghislain Guiot
 
 RUN apt-get update && apt-get install -y openssh-client
