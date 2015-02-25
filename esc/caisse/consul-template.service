@@ -2,4 +2,4 @@
 
 exec consul-template \
      -consul=consul:8500 \
-     -template "/etc/consul-templates/httpd.cfg:/httpd.cfg:sv usr1 chey"
+     -template "/etc/consul-templates/httpd.cfg:/httpd.cfg:sv quit chey"
