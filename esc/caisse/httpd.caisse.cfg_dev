@@ -33,6 +33,11 @@ default [
     virtual-root "/ng/v2"
     root-dir %esc-caisse/ng/v2/
     timeout 20:00:00
+  ]
+  webapp [
+    virtual-root "/ng/v3"
+    root-dir %esc-caisse/ng/v3/
+    timeout 20:00:00
     debug
   ]
   webapp [
