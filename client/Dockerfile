@@ -15,6 +15,9 @@ RUN curl -L $CT_URL | tar -C /usr/local/bin --strip-components 1 -zxf -
 ADD nginx.service /etc/service/nginx/run
 ADD consul-template.service /etc/service/consul-template/run
 
+# Removes default conf files.
+RUN rm /etc/nginx/conf.d/*
+
 ADD nginx.conf /etc/consul-templates/nginx.conf
 
 ADD client /client
