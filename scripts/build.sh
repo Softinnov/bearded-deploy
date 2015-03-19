@@ -185,6 +185,7 @@ if [ -z $PULL ]; then
 	done
 fi
 
+# Build images
 for i in $CNTS
 do
 	([ $i == "back" ] || [ $i == "client" ]) && [ -z $DIR ] && \
@@ -193,6 +194,7 @@ do
 	build $i
 done
 
+# Push images
 if [ $PUSH == true ]; then
 
 	echo -n "Are you sure to push changes (Y/n): "
