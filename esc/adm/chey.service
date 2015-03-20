@@ -1,4 +1,4 @@
 #!/bin/sh
 
 cd /
-exec /cheyenne
+exec /chey_adm

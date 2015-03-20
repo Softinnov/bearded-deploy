@@ -13,6 +13,8 @@ RUN curl -L $CT_URL | tar -C /usr/local/bin --strip-components 1 -zxf -
 ADD chey.service /etc/service/chey/run
 ADD consul-template.service /etc/service/consul-template/run
 
+RUN mv /cheyenne /chey_adm
+
 RUN mkdir -p /etc/consul-templates
 
 VOLUME /var/log
