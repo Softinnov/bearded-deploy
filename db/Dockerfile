@@ -7,9 +7,13 @@ MAINTAINER Ghislain Guiot
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update && \
-  apt-get -yq install mysql-server pwgen && \
+  apt-get -yq install mysql-server pwgen wget && \
   rm -rf /var/lib/apt/lists/*
 RUN echo Europe/Paris > /etc/timezone && dpkg-reconfigure --frontend noninteractive tzdata
+
+# Get version v0.1 of sql-http-proxy
+ENV SHP_URL https://github.com/Softinnov/sql-http-proxy/releases/download/v0.1/sql-http-proxy_linux-x86_64
+RUN wget -c -nv --no-check-certificate $SHP_URL && mv sql-http-proxy_linux-x86_64 /usr/local/bin/sql-http-proxy
 
 # Remove pre-installed database
 RUN rm -rf /var/lib/mysql/*
@@ -33,8 +37,6 @@ ADD data/pdv.txt         /data/pdv.txt
 # Exposed ENV
 ENV MYSQL_USER admin
 ENV MYSQL_PASS admin
-
-ADD sql-http-proxy /sql-http-proxy
 
 ADD run.sh /run.sh
 ADD launch.sh /launch.sh
