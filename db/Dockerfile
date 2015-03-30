@@ -14,6 +14,7 @@ RUN echo Europe/Paris > /etc/timezone && dpkg-reconfigure --frontend noninteract
 # Get version v0.1 of sql-http-proxy
 ENV SHP_URL https://github.com/Softinnov/sql-http-proxy/releases/download/v0.1/sql-http-proxy_linux-x86_64
 RUN wget -c -nv --no-check-certificate $SHP_URL && mv sql-http-proxy_linux-x86_64 /usr/local/bin/sql-http-proxy
+RUN chmod +x /usr/local/bin/sql-http-proxy
 
 # Remove pre-installed database
 RUN rm -rf /var/lib/mysql/*
