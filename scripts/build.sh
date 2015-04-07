@@ -19,10 +19,10 @@
 #  Examples:
 #
 #    Development of client and esc-pdv WITH pull but NOT push (be sure to get last version from registry and from actual dev):
-#      $ ./scripts/build.sh -i "client esc-pdv" -d `pwd`/../bearded-basket
+#      $ ./scripts/build.sh -i "client esc-pdv" -b `pwd`/../bearded-basket
 #
 #    Development of back WITHOUT pull but WITH push (avoid fetching last version)
-#      $ ./scripts/build.sh -l -p -i "back" -d `pwd`/../bearded-basket
+#      $ ./scripts/build.sh -l -p -i "back" -b `pwd`/../bearded-basket
 #
 ####
 
@@ -35,7 +35,7 @@ USAGE="Usage: $0 [-p] [-l] [-i IMAGES] [-d FOLDER] [-t TAG]\n
   -p :\tpush images (eg. back client)\n
   -l :\tdisable pull from regitry (default false)\n
   -i :\tspecifie which images to build\n
-  -d :\tproject directory path (bearded-basket)\n
+  -b :\tproject directory path (bearded-basket)\n
   -t :\ttag image (e.g 1.2)"
 
 if [ -z "$1" ]; then
@@ -145,7 +145,7 @@ pull() {
 	echo -e "$G >> $1 image done. $W"
 }
 
-while getopts "hld:i:t:p" opt; do
+while getopts "hlb:i:t:p" opt; do
 	case $opt in
 		i)
 			CNTS+=" $OPTARG"
@@ -156,7 +156,7 @@ while getopts "hld:i:t:p" opt; do
 		p)
 			PUSH=true
 			;;
-		d)
+		b)
 			DIR="$OPTARG"
 			;;
 		t)
