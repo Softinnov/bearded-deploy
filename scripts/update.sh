@@ -5,7 +5,7 @@
 #
 #    1. Stops the actual running container
 #    2. Removes it
-#    3. Pulls the docker image
+#    3. Pulls the docker containers
 #    4. Runs the container
 ####
 ####
@@ -17,7 +17,7 @@
 #      $ ./scripts/update.sh -i "client esc-pdv"
 #
 #    Development of all:
-#      $ ./scripts/update.sh -d
+#      $ ./scripts/update.sh -d -c `pwd`/../bearded-basket/client -e `pwd`/../esc
 #
 #    Development of client and esc-pdv:
 #      $ ./scripts/update.sh -d -i "client esc-pdv" -c `pwd`/../bearded-basket/client -e `pwd`/../esc
@@ -39,7 +39,8 @@ B="\x1b[34m"
 W="\x1b[0m"
 
 USAGE="Usage: $0 [-d] [-i CONTAINERS] [-e ESC-FOLDERS] [-c CLIENT_FOLDER] [-t TAG]\n
-  -d :\tdeveloper mode (default prod)\n
+  -d :\tdeveloper mode (default prod) (activate -l flag)\n
+  -l :\tdo not pull images\n
   -i :\tprecise which containers to run (default all) (eg. \"back client\")\n
   -e :\tesc folders location (adm|caisse|pdv) (developer mode)\n
   -c :\tclient folder (developer mode)\n
@@ -50,10 +51,11 @@ CLI=""
 REGISTRY="preprod.softinnov.fr:5000"
 TAG="latest"
 
-while getopts "hdc:e:t:i:" opt; do
+while getopts "hdc:e:t:i:l" opt; do
 	case $opt in
 		d)
 			DEV=true
+			NO_PULL=true
 			;;
 		e)
 			ESC=$OPTARG
@@ -63,6 +65,9 @@ while getopts "hdc:e:t:i:" opt; do
 			;;
 		t)
 			TAG=$OPTARG
+			;;
+		l)
+			NO_PULL=false
 			;;
 		i)
 			NAMES+=" $OPTARG"
@@ -116,7 +121,8 @@ for i in $NAMES; do
 	docker stop $i > /dev/null 2>&1
 	docker rm $i > /dev/null 2>&1
 
-	if [ -z $DEV ]; then
+	# Disable pull (-l and -d flags)
+	if [ -z $NO_PULL ]; then
 		if [ "$i" != "registrator" ] && [ "$i" != "consul" ]; then
 			echo -e "$B >> pulling $REGISTRY/$i $W"
 			docker pull $REGISTRY/$i:$TAG || exit $?
