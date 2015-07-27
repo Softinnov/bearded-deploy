@@ -30,3 +30,12 @@ $ docker run -d -e REPLICATION_SLAVE=true -P --link master-bearded:mysql --name 
 ## Second solution with --env-file
 $ docker run -d -e REPLICATION_SLAVE=true -P --env-file=ENV --name slave-bearded mysql-softinnov
 ```
+
+SSH Tunnel
+==========
+
+# Example
+```sh
+# create a ssh vpn with master between 3307 local port to remote 3306
+$ ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -fNgL 3307:127.0.0.1:3306 root@$IP
+```
