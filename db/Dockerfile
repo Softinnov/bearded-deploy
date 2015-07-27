@@ -1,13 +1,10 @@
 FROM debian:7.7
 MAINTAINER Ghislain Guiot
 
-# From tutum-docker-mysql
-# Available at: https://github.com/tutumcloud/tutum-docker-mysql
-
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update && \
-  apt-get -yq install mysql-server pwgen wget && \
+  apt-get -yq install mysql-server-5.5 pwgen wget && \
   rm -rf /var/lib/apt/lists/*
 RUN echo Europe/Paris > /etc/timezone && dpkg-reconfigure --frontend noninteractive tzdata
 
@@ -20,10 +17,12 @@ RUN chmod +x /usr/local/bin/sql-http-proxy
 RUN rm -rf /var/lib/mysql/*
 
 # Add MySQL configuration
-ADD my.master.cnf /etc/mysql/my.cnf
+ADD my.cnf /etc/mysql/my.cnf
 ADD mysqld_charset.cnf /etc/mysql/conf.d/mysqld_charset.cnf
 
 ADD update_dbdata.sh /
+ADD run.sh /
+ADD launch.sh /
 
 # Add tables for tests
 ADD data/role.sql        /data/role.sql
@@ -39,10 +38,16 @@ ADD data/pdv.txt         /data/pdv.txt
 ENV MYSQL_USER admin
 ENV MYSQL_PASS admin
 
-ADD run.sh /run.sh
-ADD launch.sh /launch.sh
-
+# create database for the tests
 RUN /launch.sh
+
+ENV MYSQL_USER=admin \
+    MYSQL_PASS=admin \
+    ON_CREATE_DB=**False** \
+    REPLICATION_MASTER=**False** \
+    REPLICATION_SLAVE=**False** \
+    REPLICATION_USER=replica \
+    REPLICATION_PASS=replica
 
 # Add VOLUMEs to allow backup of config and databases
 VOLUME ["/var/lib/mysql", "/data"]
