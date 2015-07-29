@@ -87,9 +87,9 @@ CNTS["consul"]="docker run -d -p 8400:8400 -p 8500:8500 -p 172.17.42.1:53:53/udp
 CNTS["registrator"]="docker run -d --link consul:consul -v /var/run/docker.sock:/tmp/docker.sock --name registrator gliderlabs/registrator consul://consul:8500"
 
 if [ ! -z $DEV ]; then
-	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db --volumes-from dbdata -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
+	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db -e REPLICATION_MASTER=true -e REPLICATION_PASS=mypass --volumes-from dbdata -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
 else
-	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db --volumes-from dbdata -v $(pwd)/data:/data -p 6033:6033 -p 3306:3306 --name db $REGISTRY/db:$TAG"
+	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db -e REPLICATION_MASTER=true -e REPLICATION_PASS=mypass --volumes-from dbdata -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
 fi
 
 if [ ! -z $DEV ]; then

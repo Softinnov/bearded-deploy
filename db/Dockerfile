@@ -20,7 +20,7 @@ RUN rm -rf /var/lib/mysql/*
 ADD my.cnf /etc/mysql/my.cnf
 ADD mysqld_charset.cnf /etc/mysql/conf.d/mysqld_charset.cnf
 
-ADD update_dbdata.sh /
+ADD import_sql.sh /
 ADD run.sh /
 ADD launch.sh /
 
@@ -50,7 +50,7 @@ ENV MYSQL_USER=admin \
     REPLICATION_PASS=replica
 
 # Add VOLUMEs to allow backup of config and databases
-VOLUME ["/var/lib/mysql", "/data"]
+VOLUME ["/etc/mysql", "/var/lib/mysql", "/data"]
 
 EXPOSE 3306 6033
 
