@@ -27,6 +27,9 @@ EXPOSE 80
 
 ADD run.sh /
 
+# avoid chey crash
+ADD httpd.tmp.cfg /httpd.cfg
+
 ADD httpd.pdv.cfg /
 ADD httpd.pdv.cfg_dev /
 

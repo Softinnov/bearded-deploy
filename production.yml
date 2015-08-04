@@ -1,0 +1,56 @@
+consul:
+  extends:
+    file: common.yml
+    service: consul
+registrator:
+  extends:
+    file: common.yml
+    service: registrator
+  links:
+    - consul:consul
+db:
+  extends:
+    file: common.yml
+    service: db
+  volumes_from:
+    - dbdata
+pdv:
+  extends:
+    file: common.yml
+    service: pdv
+  links:
+    - consul:consul
+caisse:
+  extends:
+    file: common.yml
+    service: caisse
+  links:
+    - consul:consul
+adm:
+  extends:
+    file: common.yml
+    service: adm
+  links:
+    - consul:consul
+smtp:
+  extends:
+    file: common.yml
+    service: smtp
+  links:
+    - consul:consul
+back:
+  extends:
+    file: common.yml
+    service: back
+  links:
+    - consul:consul
+client:
+  extends:
+    file: common.yml
+    service: client
+  ports:
+    - "80:80"
+  links:
+    - consul:consul
+  volumes:
+    - ./ssl/:/etc/ssl/private

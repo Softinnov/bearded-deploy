@@ -1,0 +1,69 @@
+consul:
+  extends:
+    file: common.yml
+    service: consul
+registrator:
+  extends:
+    file: common.yml
+    service: registrator
+  links:
+    - consul:consul
+db:
+  extends:
+    file: common.yml
+    service: db
+  volumes_from:
+    - dbdata
+pdv:
+  extends:
+    file: common.yml
+    service: pdv
+  environment:
+    - PLATFORM=dev
+  volumes:
+    - ../esc/esc-pdv/src:/esc-pdv
+  links:
+    - consul:consul
+caisse:
+  extends:
+    file: common.yml
+    service: caisse
+  environment:
+    - PLATFORM=dev
+  volumes:
+    - ../esc/esc-caisse/src:/esc-caisse
+  links:
+    - consul:consul
+adm:
+  extends:
+    file: common.yml
+    service: adm
+  volumes:
+    - ../esc/esc-adm/src:/esc-adm
+  links:
+    - consul:consul
+  environment:
+    - PLATFORM=dev
+smtp:
+  extends:
+    file: common.yml
+    service: smtp
+  links:
+    - consul:consul
+back:
+  extends:
+    file: common.yml
+    service: back
+  links:
+    - consul:consul
+client:
+  extends:
+    file: common.yml
+    service: client
+  ports:
+    - "8000:80"
+  links:
+    - consul:consul
+  volumes:
+    - ../bearded-basket/client:/client
+    - ./ssl/:/etc/ssl/private

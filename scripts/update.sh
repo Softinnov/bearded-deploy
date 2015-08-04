@@ -89,7 +89,7 @@ CNTS["registrator"]="docker run -d --link consul:consul -v /var/run/docker.sock:
 if [ ! -z $DEV ]; then
 	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db -e REPLICATION_MASTER=true -e REPLICATION_PASS=mypass --volumes-from dbdata -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
 else
-	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db -e REPLICATION_MASTER=true -e REPLICATION_PASS=mypass --volumes-from dbdata -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
+	CNTS["db"]="docker run -d -e SERVICE_6033_NAME=httpdb -e SERVICE_3306_NAME=db -e REPLICATION_MASTER=true -e REPLICATION_PASS=mypass --volumes-from dbdata -p 127.0.0.1:3306:3306 -v $(pwd)/data:/data -P --name db $REGISTRY/db:$TAG"
 fi
 
 if [ ! -z $DEV ]; then
