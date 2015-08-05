@@ -1,10 +1,8 @@
 {
-	"client": [
-		{{range service "client"}}
-		"{{.Address}}:{{.Port}}{{end}}"
-	],
-	"httpdb": [
-		{{range service "httpdb"}}
-		"{{.Address}}:{{.Port}}{{end}}"
-	]
+        "client": [ {{range $index, $service := service "client"}}{{if ne $index 0}},{{end}}
+                "{{.Address}}:{{.Port}}"{{end}}
+        ],
+        "httpdb": [ {{range $index, $service := service "httpdb"}}{{if ne $index 0}},{{end}}
+                "{{.Address}}:{{.Port}}"{{end}}
+        ]
 }

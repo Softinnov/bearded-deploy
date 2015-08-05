@@ -1,9 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 
 DBTABLES="adresse atelier budget client commande_d commande famille fournisseur generique individu libelle livraison_d livraison_f livraison mvt nutrition panier parametre pdv personne produit_silo produit projet ressources role stats stock tarif utilisateur vente_d vente"
 
 if [ $# -lt 2 ]; then
-	echo "Usage: $0 <data path> <db data name> [db tables]"
+	echo "Usage: $0 <data path> <data container name> [db tables]"
 	exit 1
 fi
 
