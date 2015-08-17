@@ -12,8 +12,8 @@ DBUSER=admin
 DBPASS=admin
 DBDATAIMPORT=$1
 DBDATA=$2
-DBCON=preprod.softinnov.fr:5000/db
-CONTNAME=db
+DBCON=hub.softinnov.com/esc-db
+CONTNAME=esc-db
 
 shift
 shift
