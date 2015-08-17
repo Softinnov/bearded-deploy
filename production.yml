@@ -18,18 +18,24 @@ pdv:
   extends:
     file: common.yml
     service: pdv
+  environment:
+    - PLATFORM=prod
   links:
     - consul:consul
 caisse:
   extends:
     file: common.yml
     service: caisse
+  environment:
+    - PLATFORM=prod
   links:
     - consul:consul
 adm:
   extends:
     file: common.yml
     service: adm
+  environment:
+    - PLATFORM=prod
   links:
     - consul:consul
 smtp:
