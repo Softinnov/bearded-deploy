@@ -14,8 +14,8 @@ registrator:
     - /var/run/docker.sock:/tmp/docker.sock
   command: "consul://consul:8500"
 db:
-  image: preprod.softinnov.fr:5000/db
-  name: db
+  image: hub.softinnov.com/esc-db
+  name: esc-db
   ports:
     - "3306"
     - "6033"
@@ -27,7 +27,7 @@ db:
   volumes:
     - ./data:/data
 pdv:
-  image: preprod.softinnov.fr:5000/esc-pdv
+  image: hub.softinnov.com/esc-pdv
   name: esc-pdv
   ports:
     - "80"
@@ -36,7 +36,7 @@ pdv:
   volumes:
     - ./logs/pdv:/var/log
 caisse:
-  image: preprod.softinnov.fr:5000/esc-caisse
+  image: hub.softinnov.com/esc-caisse
   name: esc-caisse
   ports:
     - "80"
@@ -45,7 +45,7 @@ caisse:
   volumes:
     - ./logs/caisse:/var/log
 adm:
-  image: preprod.softinnov.fr:5000/esc-adm
+  image: hub.softinnov.com/esc-adm
   name: esc-adm
   ports:
     - "80"
@@ -54,8 +54,8 @@ adm:
   volumes:
     - ./logs/adm:/var/log
 smtp:
-  image: preprod.softinnov.fr:5000/smtp
-  name: smtp
+  image: hub.softinnov.com/esc-smtp
+  name: esc-smtp
   ports:
     - "25"
   environment:
@@ -63,8 +63,8 @@ smtp:
     - pass=notif512si
     - SERVICE_NAME=smtp
 back:
-  image: preprod.softinnov.fr:5000/back
-  name: back
+  image: hub.softinnov.com/esc-back
+  name: esc-back
   ports:
     - "8002"
   environment:
@@ -73,8 +73,8 @@ back:
   volumes:
     - ./logs:/logs
 client:
-  image: preprod.softinnov.fr:5000/client
-  name: client
+  image: hub.softinnov.com/esc-client
+  name: esc-client
   environment:
     - SERVICE_80_NAME=client
   volumes:
