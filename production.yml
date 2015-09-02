@@ -61,3 +61,8 @@ client:
     - consul:consul
   volumes:
     - ./ssl/:/etc/ssl/private
+monitor:
+  image: softinnov/bearded-monitor
+  privileged: true
+  pid: host
+  command: "-p 95 -i 30s -s usr1 chey_pdv chey_caisse chey_adm"
