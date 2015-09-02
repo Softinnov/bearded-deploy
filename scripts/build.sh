@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
 
 ####
+#
+# ONLY USE THIS SCRIPT IF THE REGISTRY IS DOWN!
+#
+####
+
+####
+#
 #  This script pulls and then builds all images. It can also push them to the registry.
 #    - esc-db
 #
@@ -10,15 +17,14 @@
 #
 #    - esc-smtp
 #
-#    - esc-back         (calls compile.sh to compile the last release of the server)
+#    - esc-back     (calls compile.sh to compile the last release of the server)
 #
-#    - esc-client       (copies the client project here [docker build doesn't support symbolic links])
-####
-####
+#    - esc-client   (copies the client project here [docker build doesn't support symbolic links])
 #
 #  Examples:
 #
-#    Development of esc-client and esc-pdv WITH pull but NOT push (be sure to get last version from registry and from actual dev):
+#    Development of esc-client and esc-pdv WITH pull but NOT push (be sure to get latest version
+#    from registry and from actual dev):
 #      $ ./scripts/build.sh -i "esc-client esc-pdv" -b `pwd`/../bearded-basket
 #
 #    Development of esc-back WITHOUT pull but WITH push (avoid fetching last version)

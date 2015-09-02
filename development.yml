@@ -51,6 +51,7 @@ smtp:
   links:
     - consul:consul
 back:
+  build: back
   extends:
     file: common.yml
     service: back

@@ -63,7 +63,6 @@ smtp:
     - pass=notif512si
     - SERVICE_NAME=smtp
 back:
-  image: hub.softinnov.com/esc-back
   name: esc-back
   ports:
     - "8002"

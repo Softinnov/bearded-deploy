@@ -45,6 +45,7 @@ smtp:
   links:
     - consul:consul
 back:
+  image: hub.softinnov.com/esc-back
   extends:
     file: common.yml
     service: back
