@@ -57,10 +57,11 @@ client:
     service: client
   ports:
     - "80:80"
+    - "443:443"
   links:
     - consul:consul
   volumes:
-    - ./ssl/:/etc/ssl/private
+    - /etc/ssl/private:/etc/ssl/private
 monitor:
   image: softinnov/bearded-monitor
   privileged: true

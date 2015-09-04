@@ -2,9 +2,9 @@ FROM softinnov/cheyenne
 
 RUN echo Europe/Paris > /etc/timezone && dpkg-reconfigure --frontend noninteractive tzdata
 
-RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
-RUN apt-get update -qq && \
-    apt-get -y install curl runit && \
+RUN apt-get -qq update && \
+    DEBIAN_FRONTEND=noninteractive \
+    apt-get -yqq install curl runit && \
     rm -rf /var/lib/apt/lists/*
 
 ENV CT_URL https://github.com/hashicorp/consul-template/releases/download/v0.5.1/consul-template_0.5.1_linux_amd64.tar.gz
