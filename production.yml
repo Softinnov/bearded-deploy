@@ -1,0 +1,71 @@
+consul:
+  extends:
+    file: common.yml
+    service: consul
+registrator:
+  extends:
+    file: common.yml
+    service: registrator
+  links:
+    - consul:consul
+db:
+  extends:
+    file: common.yml
+    service: db
+  ports:
+    - "3306:3306"
+  volumes_from:
+    - dbdata
+pdv:
+  extends:
+    file: common.yml
+    service: pdv
+  environment:
+    - PLATFORM=prod
+  links:
+    - consul:consul
+caisse:
+  extends:
+    file: common.yml
+    service: caisse
+  environment:
+    - PLATFORM=prod
+  links:
+    - consul:consul
+adm:
+  extends:
+    file: common.yml
+    service: adm
+  environment:
+    - PLATFORM=prod
+  links:
+    - consul:consul
+smtp:
+  extends:
+    file: common.yml
+    service: smtp
+  links:
+    - consul:consul
+back:
+  image: hub.softinnov.com/esc-back
+  extends:
+    file: common.yml
+    service: back
+  links:
+    - consul:consul
+client:
+  extends:
+    file: common.yml
+    service: client
+  ports:
+    - "80:80"
+    - "443:443"
+  links:
+    - consul:consul
+  volumes:
+    - /etc/ssl/private:/etc/ssl/private
+monitor:
+  image: softinnov/bearded-monitor
+  privileged: true
+  pid: host
+  command: "-p 95 -i 30s -s usr1 chey_pdv chey_caisse chey_adm"

@@ -1,0 +1,80 @@
+consul:
+  image: progrium/consul:latest
+  name: consul
+  hostname: consul
+  ports:
+    - "8400:8400"
+    - "8500:8500"
+    - "172.17.42.1:53:53/udp"
+  command: "-server -bootstrap -advertise 172.17.42.1"
+registrator:
+  image: gliderlabs/registrator
+  name: registrator
+  volumes:
+    - /var/run/docker.sock:/tmp/docker.sock
+  command: "consul://consul:8500"
+db:
+  image: hub.softinnov.com/esc-db
+  name: esc-db
+  ports:
+    - "3306"
+    - "6033"
+  environment:
+    - SERVICE_6033_NAME=httpdb
+    - SERVICE_3306_NAME=db
+    - REPLICATION_MASTER=true
+    - REPLICATION_PASS=mypass
+  volumes:
+    - ./data:/data
+pdv:
+  image: hub.softinnov.com/esc-pdv
+  name: esc-pdv
+  ports:
+    - "80"
+  environment:
+    - SERVICE_80_NAME=esc-pdv
+  volumes:
+    - ./logs/pdv:/var/log
+caisse:
+  image: hub.softinnov.com/esc-caisse
+  name: esc-caisse
+  ports:
+    - "80"
+  environment:
+    - SERVICE_80_NAME=esc-caisse
+  volumes:
+    - ./logs/caisse:/var/log
+adm:
+  image: hub.softinnov.com/esc-adm
+  name: esc-adm
+  ports:
+    - "80"
+  environment:
+    - SERVICE_80_NAME=esc-adm
+  volumes:
+    - ./logs/adm:/var/log
+smtp:
+  image: hub.softinnov.com/esc-smtp
+  name: esc-smtp
+  ports:
+    - "25"
+  environment:
+    - user=notification@escarcelle.net
+    - pass=notif512si
+    - SERVICE_NAME=smtp
+back:
+  name: esc-back
+  ports:
+    - "8002"
+  environment:
+    - SERVICE_NAME=back
+    - PLATFORM=prod/dev
+  volumes:
+    - ./logs:/logs
+client:
+  image: hub.softinnov.com/esc-client
+  name: esc-client
+  environment:
+    - SERVICE_80_NAME=client
+  volumes:
+    - ./logs:/var/log/nginx

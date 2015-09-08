@@ -2,10 +2,10 @@ FROM debian:7.7
 MAINTAINER Ghislain Guiot
 
 # Install packages
-ENV DEBIAN_FRONTEND noninteractive
-RUN apt-get update && \
-  apt-get -yq install mysql-server-5.5 pwgen wget && \
-  rm -rf /var/lib/apt/lists/*
+RUN apt-get -qq update && \
+    DEBIAN_FRONTEND=noninteractive \
+    apt-get -yqq install mysql-server-5.5 pwgen wget && \
+    rm -rf /var/lib/apt/lists/*
 RUN echo Europe/Paris > /etc/timezone && dpkg-reconfigure --frontend noninteractive tzdata
 
 # Get version v0.1 of sql-http-proxy
