@@ -2,12 +2,14 @@ consul:
   extends:
     file: common.yml
     service: consul
+  restart: always
 registrator:
   extends:
     file: common.yml
     service: registrator
   links:
     - consul:consul
+  restart: always
 db:
   extends:
     file: common.yml
@@ -17,6 +19,7 @@ db:
     - "3306:3306"
   volumes_from:
     - dbdata
+  restart: always
 pdv:
   extends:
     file: common.yml
@@ -25,6 +28,7 @@ pdv:
     - PLATFORM=prod
   links:
     - consul:consul
+  restart: always
 caisse:
   extends:
     file: common.yml
@@ -33,6 +37,7 @@ caisse:
     - PLATFORM=prod
   links:
     - consul:consul
+  restart: always
 adm:
   extends:
     file: common.yml
@@ -41,12 +46,14 @@ adm:
     - PLATFORM=prod
   links:
     - consul:consul
+  restart: always
 smtp:
   extends:
     file: common.yml
     service: smtp
   links:
     - consul:consul
+  restart: always
 back:
   image: hub.softinnov.com/esc-back
   extends:
@@ -54,6 +61,7 @@ back:
     service: back
   links:
     - consul:consul
+  restart: always
 client:
   extends:
     file: common.yml
@@ -65,8 +73,10 @@ client:
     - consul:consul
   volumes:
     - /etc/ssl/private:/etc/ssl/private
+  restart: always
 monitor:
   image: softinnov/bearded-monitor
   privileged: true
   pid: host
   command: "-p 95 -i 30s -s usr1 chey_pdv chey_caisse chey_adm"
+  restart: always
