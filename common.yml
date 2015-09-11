@@ -1,5 +1,5 @@
 consul:
-  image: progrium/consul:latest
+  image: gliderlabs/consul-server:0.5
   name: consul
   hostname: consul
   ports:
@@ -8,7 +8,7 @@ consul:
     - "172.17.42.1:53:53/udp"
   command: "-server -bootstrap -advertise 172.17.42.1"
 registrator:
-  image: gliderlabs/registrator
+  image: gliderlabs/registrator:v6
   name: registrator
   volumes:
     - /var/run/docker.sock:/tmp/docker.sock
