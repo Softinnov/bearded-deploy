@@ -12,6 +12,7 @@ db:
   extends:
     file: common.yml
     service: db
+  container_name: prod-db
   ports:
     - "3306:3306"
   volumes_from:
