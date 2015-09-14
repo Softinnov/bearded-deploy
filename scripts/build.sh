@@ -2,12 +2,6 @@
 
 ####
 #
-# ONLY USE THIS SCRIPT IF THE REGISTRY IS DOWN!
-#
-####
-
-####
-#
 #  This script pulls and then builds all images. It can also push them to the registry.
 #    - esc-db
 #
