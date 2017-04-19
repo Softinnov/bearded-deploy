@@ -1,64 +1,22 @@
-DEVELOPMENT
-===========
+Bienvenue sur le repo de déploiement du projet [Escarcelle](https://escarcelle.net).
 
-You'll need:
- - go
- - docker
- - docker-compose
+Technologies
+============
 
-Having the `esc` folder as follow:
-```
-  esc/
-  ├── esc-adm/
-  │   └── ...      (preprod branch)
-  ├── esc-caisse/
-  │   └── ...      (preprod branch)
-  └── esc-pdv/
-      └── ...      (preprod branch)
-```
+Le projet est développé en plusieurs technologies :
+- Une partie en [REBOL](http://www.rebol.com/). Actuellement, la grande majorité du site est écrite dans ce langage.
+- Plusieurs petites parties en [Go](https://golang.org/). Petit à petit, l'application en REBOL est remplacé par un système de micro sevices écrits en Go. Jusqu'à maintenant, seule la _Gestion Utilisateur_ l'est.
+- [AngularJS](https://angularjs.org/) est utilisé pour la partie client du site. Plus particulièrement sur la partie remplacé par Go.
+- [Docker](https://www.docker.com/) est là pour faire toute la gestion de la construction, le lancement et le déploiement des applications. Chaque application est containerisé afin d'avoir chacune un objectif unique et pouvoir ainsi se répliquer plus facilement et rapidement.
+- [Consul](https://www.consul.io/) est l'application qui (couplée à [Registrator](https://github.com/gliderlabs/registrator) et [consul-template](https://github.com/hashicorp/consul-template)) nous sert à dynamiquement détecter un nouveau container qui serait lancé, stocker en mémoire son adresse/port et le signaler automatiquement aux autres containers en fonctionnement.
 
-Then run the compilation of `back`:
-```sh
-$ cd back && ./compile.sh [path to bearded-basket] && cd ..
-```
+#### [Procédure de déploiement](./docs/DEPLOYMENT.md)
 
-Then build the images using docker-compose:
-```sh
-$ docker-compose -f development.yml build
-```
+#### [Mise en production](./docs/MISE-EN-PROD.md)
 
-Finally run all the containers:
-```sh
-$ docker-compose -f development.yml up -d
-```
+#### [Développement](./docs/DEVELOPMENT.md)
 
-DEPLOYEMENT
-===========
+Architecture
+============
 
-A `dbdata` container needs to be built first.
-
-To build it, launch
-```bash
-$ ./scripts/dbdata.sh <data path> <data container name> [table names...]
-```
-
-### Debian/Ubuntu
-
-Be aware that you need the ssl certificates already on the server.
-
-Then, you just need to run compose. It will pull images from the registry and launch them.
-```bash
-$ compose -f production.yml up -d
-```
-
-BUILD
-=====
-
-*Only necessary if the registry is not accessible*
-
-To build the images, you just have to call:
-```bash
-$ ./scripts/build.sh -d [PROJECT_DIRECTORY]
-```
-To push them to the registry, add the `-p` flag.
-To print the help message, add `-h`.
+![architecture](https://docs.google.com/drawings/d/19kQsvhiq-QVkVmBhlErZEeFcUaN10SFxRQm-7NFvhok/pub?w=1143&h=684)
