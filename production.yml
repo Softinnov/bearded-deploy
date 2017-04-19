@@ -37,6 +37,8 @@ caisse:
     - PLATFORM=prod
   links:
     - consul:consul
+  volumes:
+    - /root/tickets:/esc-caisse/tickets
   restart: always
 adm:
   extends:
@@ -61,6 +63,15 @@ back:
     service: back
   links:
     - consul:consul
+  restart: always
+sync:
+  extends:
+    file: common.yml
+    service: sync
+  links:
+    - consul:consul
+  volumes:
+    - /root/tickets:/tickets
   restart: always
 client:
   extends:

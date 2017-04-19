@@ -5,11 +5,11 @@ RUN echo Europe/Paris > /etc/timezone && dpkg-reconfigure --frontend noninteract
 
 RUN apt-get -qq update && \
     DEBIAN_FRONTEND=noninteractive \
-    apt-get -yqq install net-tools curl runit && \
+    apt-get -yqq install net-tools curl runit unzip && \
     rm -rf /var/lib/apt/lists/*
 
-ENV CT_URL https://github.com/hashicorp/consul-template/releases/download/v0.5.1/consul-template_0.5.1_linux_amd64.tar.gz
-RUN curl -L $CT_URL | tar -C /usr/local/bin --strip-components 1 -zxf -
+ENV CT_URL https://releases.hashicorp.com/consul-template/0.5.1/consul-template_0.5.1_linux_amd64.zip
+RUN curl -L $CT_URL -o /ct.zip && unzip /ct.zip -d /usr/local/bin
 
 ADD bearded-basket.service /etc/service/bearded-basket/run
 ADD consul-template.service /etc/service/consul-template/run

@@ -21,7 +21,7 @@ pdv:
   environment:
     - PLATFORM=dev
   volumes:
-    - ../esc/esc-pdv/src:/esc-pdv
+    - ../esc-pdv/src:/esc-pdv
   links:
     - consul:consul
 caisse:
@@ -31,7 +31,8 @@ caisse:
   environment:
     - PLATFORM=dev
   volumes:
-    - ../esc/esc-caisse/src:/esc-caisse
+    - ../esc-caisse/src:/esc-caisse
+    - /tmp/tickets:/esc-caisse/tickets
   links:
     - consul:consul
 adm:
@@ -39,7 +40,7 @@ adm:
     file: common.yml
     service: adm
   volumes:
-    - ../esc/esc-adm/src:/esc-adm
+    - ../esc-adm/src:/esc-adm
   links:
     - consul:consul
   environment:
@@ -57,12 +58,20 @@ back:
     service: back
   links:
     - consul:consul
+sync:
+  extends:
+    file: common.yml
+    service: sync
+  links:
+    - consul:consul
+  volumes:
+    - /tmp/tickets:/tickets
 client:
   extends:
     file: common.yml
     service: client
   ports:
-    - "8000:80"
+    - "80:80"
   links:
     - consul:consul
   volumes:

@@ -71,6 +71,9 @@ back:
     - PLATFORM=prod/dev
   volumes:
     - ./logs:/logs
+sync:
+  image: esc-sync
+  name: esc-sync
 client:
   image: hub.softinnov.com/esc-client
   container_name: esc-client
