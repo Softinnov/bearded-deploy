@@ -7,7 +7,7 @@
  - [x] MAJ aussi pour le serveur slave. [~ 5 min]
 
 #### Une fois tout redémarré et fonctionnel
- - [ ] Exécuter la [mise en production](https://github.com/Softinnov/bearded-deploy/wiki/Mise-en-production) [~ 1 heure]
+ - [ ] Exécuter la [mise en production](./MISE-EN-PROD.md) [~ 1 heure]
  - [ ] Configuration ufw pour master et slave [~ 1 min]
 ```
   ufw enable
