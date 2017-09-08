@@ -5,8 +5,8 @@ consul:
   ports:
     - "8400:8400"
     - "8500:8500"
-    - "172.17.42.1:53:53/udp"
-  command: "-server -bootstrap -advertise 172.17.42.1"
+    - "172.17.0.1:53:53/udp"
+  command: "-server -bootstrap -advertise 172.17.0.1"
 registrator:
   image: gliderlabs/registrator:v6
   container_name: registrator
