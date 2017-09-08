@@ -1,6 +1,6 @@
 consul:
   image: gliderlabs/consul-server:0.5
-  name: consul
+  container_name: consul
   hostname: consul
   ports:
     - "8400:8400"
@@ -9,13 +9,13 @@ consul:
   command: "-server -bootstrap -advertise 172.17.42.1"
 registrator:
   image: gliderlabs/registrator:v6
-  name: registrator
+  container_name: registrator
   volumes:
     - /var/run/docker.sock:/tmp/docker.sock
   command: "consul://consul:8500"
 db:
   image: hub.softinnov.com/esc-db
-  name: esc-db
+  container_name: esc-db
   ports:
     - "3306"
     - "6033"
@@ -28,7 +28,7 @@ db:
     - ./data:/data
 pdv:
   image: hub.softinnov.com/esc-pdv
-  name: esc-pdv
+  container_name: esc-pdv
   ports:
     - "80"
   environment:
@@ -37,7 +37,7 @@ pdv:
     - ./logs/pdv:/var/log
 caisse:
   image: hub.softinnov.com/esc-caisse
-  name: esc-caisse
+  container_name: esc-caisse
   ports:
     - "80"
   environment:
@@ -46,7 +46,7 @@ caisse:
     - ./logs/caisse:/var/log
 adm:
   image: hub.softinnov.com/esc-adm
-  name: esc-adm
+  container_name: esc-adm
   ports:
     - "80"
   environment:
@@ -55,7 +55,7 @@ adm:
     - ./logs/adm:/var/log
 smtp:
   image: hub.softinnov.com/esc-smtp
-  name: esc-smtp
+  container_name: esc-smtp
   ports:
     - "25"
   environment:
@@ -63,7 +63,7 @@ smtp:
     - pass=notif512si
     - SERVICE_NAME=smtp
 back:
-  name: esc-back
+  container_name: esc-back
   ports:
     - "8002"
   environment:
@@ -73,7 +73,7 @@ back:
     - ./logs:/logs
 client:
   image: hub.softinnov.com/esc-client
-  name: esc-client
+  container_name: esc-client
   environment:
     - SERVICE_80_NAME=client
   volumes:
