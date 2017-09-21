@@ -22,38 +22,43 @@
 CHANGE MASTER TO MASTER_LOG_FILE='mysql-bin.000139', MASTER_LOG_POS=27934487;
 
 --
--- Table structure for table `pdv`
+-- Table structure for table `vente`
 --
 
-DROP TABLE IF EXISTS `pdv`;
+DROP TABLE IF EXISTS `vente`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `pdv` (
-  `pv_id` int(32) NOT NULL AUTO_INCREMENT,
-  `pv_nom` varchar(128) DEFAULT NULL,
-  `pv_statut` int(16) DEFAULT NULL,
-  `pv_autre` varchar(256) DEFAULT NULL,
-  `pv_adr_pdv` int(32) DEFAULT NULL,
-  `pv_cnt_pdv` int(32) DEFAULT NULL,
-  `pv_adr_liv` int(32) DEFAULT NULL,
-  `pv_cnt_liv` int(32) DEFAULT NULL,
-  `pv_adr_fct` int(32) DEFAULT NULL,
-  `pv_cnt_fct` int(32) DEFAULT NULL,
-  `pv_paiement` int(32) DEFAULT NULL,
-  `pv_mnt_attr` int(32) DEFAULT NULL,
-  `pv_adherent` tinyint(1) DEFAULT NULL,
-  `pv_cmt` text,
-  `pv_supprime` tinyint(1) DEFAULT '0',
-  `pv_faitpar` int(32) DEFAULT NULL,
-  `pv_cree` datetime DEFAULT NULL,
-  `pv_modifie` datetime DEFAULT NULL,
-  `pv_abo_expire` datetime DEFAULT NULL,
-  `pv_abo_etat` int(16) DEFAULT '237',
-  `pv_abo_facturl` varchar(256) DEFAULT NULL,
-  PRIMARY KEY (`pv_id`),
-  KEY `i41` (`pv_adr_pdv`),
-  KEY `i42` (`pv_supprime`)
-) ENGINE=InnoDB AUTO_INCREMENT=584 DEFAULT CHARSET=latin1;
+CREATE TABLE `vente` (
+  `v_id` int(32) NOT NULL AUTO_INCREMENT,
+  `v_pdv` int(32) DEFAULT NULL,
+  `v_client` int(32) DEFAULT NULL,
+  `v_date` datetime DEFAULT NULL,
+  `v_total` int(32) DEFAULT NULL,
+  `v_modep` int(32) DEFAULT NULL,
+  `v_fourni` int(32) DEFAULT NULL,
+  `v_rendu` int(32) DEFAULT NULL,
+  `v_solde` int(32) DEFAULT NULL,
+  `v_caisse` int(8) DEFAULT NULL,
+  `v_remise` int(32) DEFAULT NULL,
+  `v_tarif` int(32) DEFAULT NULL,
+  `v_faitpar` int(32) DEFAULT NULL,
+  `v_ticket` int(32) DEFAULT NULL,
+  `v_supprime` tinyint(1) DEFAULT '0',
+  `v_mp_esp` int(32) DEFAULT NULL,
+  `v_mp_chq` int(32) DEFAULT NULL,
+  `v_mp_cb` int(32) DEFAULT NULL,
+  `v_mp_autre` int(32) DEFAULT NULL,
+  `v_mp_r1` int(32) DEFAULT NULL,
+  `v_mp_r2` int(32) DEFAULT NULL,
+  `v_mp_r3` int(32) DEFAULT NULL,
+  `v_mp_r4` int(32) DEFAULT NULL,
+  PRIMARY KEY (`v_id`),
+  KEY `i68` (`v_pdv`),
+  KEY `i69` (`v_client`),
+  KEY `i70` (`v_date`),
+  KEY `i71` (`v_ticket`),
+  KEY `i72` (`v_faitpar`)
+) ENGINE=InnoDB AUTO_INCREMENT=3605983 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 

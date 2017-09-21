@@ -22,38 +22,40 @@
 CHANGE MASTER TO MASTER_LOG_FILE='mysql-bin.000139', MASTER_LOG_POS=27934487;
 
 --
--- Table structure for table `pdv`
+-- Table structure for table `client`
 --
 
-DROP TABLE IF EXISTS `pdv`;
+DROP TABLE IF EXISTS `client`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `pdv` (
-  `pv_id` int(32) NOT NULL AUTO_INCREMENT,
-  `pv_nom` varchar(128) DEFAULT NULL,
-  `pv_statut` int(16) DEFAULT NULL,
-  `pv_autre` varchar(256) DEFAULT NULL,
-  `pv_adr_pdv` int(32) DEFAULT NULL,
-  `pv_cnt_pdv` int(32) DEFAULT NULL,
-  `pv_adr_liv` int(32) DEFAULT NULL,
-  `pv_cnt_liv` int(32) DEFAULT NULL,
-  `pv_adr_fct` int(32) DEFAULT NULL,
-  `pv_cnt_fct` int(32) DEFAULT NULL,
-  `pv_paiement` int(32) DEFAULT NULL,
-  `pv_mnt_attr` int(32) DEFAULT NULL,
-  `pv_adherent` tinyint(1) DEFAULT NULL,
-  `pv_cmt` text,
-  `pv_supprime` tinyint(1) DEFAULT '0',
-  `pv_faitpar` int(32) DEFAULT NULL,
-  `pv_cree` datetime DEFAULT NULL,
-  `pv_modifie` datetime DEFAULT NULL,
-  `pv_abo_expire` datetime DEFAULT NULL,
-  `pv_abo_etat` int(16) DEFAULT '237',
-  `pv_abo_facturl` varchar(256) DEFAULT NULL,
-  PRIMARY KEY (`pv_id`),
-  KEY `i41` (`pv_adr_pdv`),
-  KEY `i42` (`pv_supprime`)
-) ENGINE=InnoDB AUTO_INCREMENT=584 DEFAULT CHARSET=latin1;
+CREATE TABLE `client` (
+  `c_id` int(32) NOT NULL AUTO_INCREMENT,
+  `c_pdv` int(32) DEFAULT NULL,
+  `c_creation` tinyint(1) DEFAULT NULL,
+  `c_beneficiaire` int(32) DEFAULT NULL,
+  `c_ref_nom` varchar(32) DEFAULT NULL,
+  `c_ref_prenom` varchar(32) DEFAULT NULL,
+  `c_ref_org` int(32) DEFAULT NULL,
+  `c_ref_tel` varchar(16) DEFAULT NULL,
+  `c_alloue` varchar(256) DEFAULT NULL,
+  `c_dated` date DEFAULT NULL,
+  `c_datef` date DEFAULT NULL,
+  `c_rav` int(32) DEFAULT NULL,
+  `c_solde` int(32) DEFAULT NULL,
+  `c_cmt` text,
+  `c_supprime` tinyint(1) DEFAULT NULL,
+  `c_faitpar` int(32) DEFAULT NULL,
+  `c_cree` datetime DEFAULT NULL,
+  `c_modifie` datetime DEFAULT NULL,
+  `c_codeinterne` varchar(256) DEFAULT NULL,
+  `c_dernpass` date DEFAULT NULL,
+  PRIMARY KEY (`c_id`),
+  KEY `i3` (`c_pdv`),
+  KEY `i4` (`c_beneficiaire`),
+  KEY `i5` (`c_dated`),
+  KEY `i6` (`c_datef`),
+  KEY `i7` (`c_supprime`)
+) ENGINE=InnoDB AUTO_INCREMENT=276193 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 

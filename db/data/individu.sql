@@ -22,38 +22,47 @@
 CHANGE MASTER TO MASTER_LOG_FILE='mysql-bin.000139', MASTER_LOG_POS=27934487;
 
 --
--- Table structure for table `pdv`
+-- Table structure for table `individu`
 --
 
-DROP TABLE IF EXISTS `pdv`;
+DROP TABLE IF EXISTS `individu`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `pdv` (
-  `pv_id` int(32) NOT NULL AUTO_INCREMENT,
-  `pv_nom` varchar(128) DEFAULT NULL,
-  `pv_statut` int(16) DEFAULT NULL,
-  `pv_autre` varchar(256) DEFAULT NULL,
-  `pv_adr_pdv` int(32) DEFAULT NULL,
-  `pv_cnt_pdv` int(32) DEFAULT NULL,
-  `pv_adr_liv` int(32) DEFAULT NULL,
-  `pv_cnt_liv` int(32) DEFAULT NULL,
-  `pv_adr_fct` int(32) DEFAULT NULL,
-  `pv_cnt_fct` int(32) DEFAULT NULL,
-  `pv_paiement` int(32) DEFAULT NULL,
-  `pv_mnt_attr` int(32) DEFAULT NULL,
-  `pv_adherent` tinyint(1) DEFAULT NULL,
-  `pv_cmt` text,
-  `pv_supprime` tinyint(1) DEFAULT '0',
-  `pv_faitpar` int(32) DEFAULT NULL,
-  `pv_cree` datetime DEFAULT NULL,
-  `pv_modifie` datetime DEFAULT NULL,
-  `pv_abo_expire` datetime DEFAULT NULL,
-  `pv_abo_etat` int(16) DEFAULT '237',
-  `pv_abo_facturl` varchar(256) DEFAULT NULL,
-  PRIMARY KEY (`pv_id`),
-  KEY `i41` (`pv_adr_pdv`),
-  KEY `i42` (`pv_supprime`)
-) ENGINE=InnoDB AUTO_INCREMENT=584 DEFAULT CHARSET=latin1;
+CREATE TABLE `individu` (
+  `i_id` int(32) NOT NULL AUTO_INCREMENT,
+  `i_pdv` int(32) DEFAULT NULL,
+  `i_client` int(32) DEFAULT NULL,
+  `i_nom` varchar(32) DEFAULT NULL,
+  `i_prenom` varchar(32) DEFAULT NULL,
+  `i_annee` int(16) DEFAULT NULL,
+  `i_sexe` int(32) DEFAULT NULL,
+  `i_statut` int(32) DEFAULT NULL,
+  `i_autre_s` varchar(64) DEFAULT NULL,
+  `i_salarie` tinyint(1) DEFAULT NULL,
+  `i_contrat` int(32) DEFAULT NULL,
+  `i_partiel` tinyint(1) DEFAULT NULL,
+  `i_aide` tinyint(1) DEFAULT NULL,
+  `i_embauche` date DEFAULT NULL,
+  `i_chomeur` tinyint(1) DEFAULT NULL,
+  `i_att_vers` tinyint(1) DEFAULT NULL,
+  `i_cdateentree` date DEFAULT NULL,
+  `i_datefin` date DEFAULT NULL,
+  `i_retraite` tinyint(1) DEFAULT NULL,
+  `i_rdateentree` date DEFAULT NULL,
+  `i_etudiant` tinyint(1) DEFAULT NULL,
+  `i_liberal` tinyint(1) DEFAULT NULL,
+  `i_autre` tinyint(1) DEFAULT NULL,
+  `i_supprime` tinyint(1) DEFAULT '0',
+  `i_faitpar` int(32) DEFAULT NULL,
+  `i_cree` datetime DEFAULT NULL,
+  `i_modifie` datetime DEFAULT NULL,
+  PRIMARY KEY (`i_id`),
+  KEY `i19` (`i_pdv`),
+  KEY `i20` (`i_client`),
+  KEY `i21` (`i_nom`),
+  KEY `i22` (`i_statut`),
+  KEY `i23` (`i_supprime`)
+) ENGINE=InnoDB AUTO_INCREMENT=575966 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 

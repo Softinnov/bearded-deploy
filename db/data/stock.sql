@@ -22,38 +22,40 @@
 CHANGE MASTER TO MASTER_LOG_FILE='mysql-bin.000139', MASTER_LOG_POS=27934487;
 
 --
--- Table structure for table `pdv`
+-- Table structure for table `stock`
 --
 
-DROP TABLE IF EXISTS `pdv`;
+DROP TABLE IF EXISTS `stock`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `pdv` (
-  `pv_id` int(32) NOT NULL AUTO_INCREMENT,
-  `pv_nom` varchar(128) DEFAULT NULL,
-  `pv_statut` int(16) DEFAULT NULL,
-  `pv_autre` varchar(256) DEFAULT NULL,
-  `pv_adr_pdv` int(32) DEFAULT NULL,
-  `pv_cnt_pdv` int(32) DEFAULT NULL,
-  `pv_adr_liv` int(32) DEFAULT NULL,
-  `pv_cnt_liv` int(32) DEFAULT NULL,
-  `pv_adr_fct` int(32) DEFAULT NULL,
-  `pv_cnt_fct` int(32) DEFAULT NULL,
-  `pv_paiement` int(32) DEFAULT NULL,
-  `pv_mnt_attr` int(32) DEFAULT NULL,
-  `pv_adherent` tinyint(1) DEFAULT NULL,
-  `pv_cmt` text,
-  `pv_supprime` tinyint(1) DEFAULT '0',
-  `pv_faitpar` int(32) DEFAULT NULL,
-  `pv_cree` datetime DEFAULT NULL,
-  `pv_modifie` datetime DEFAULT NULL,
-  `pv_abo_expire` datetime DEFAULT NULL,
-  `pv_abo_etat` int(16) DEFAULT '237',
-  `pv_abo_facturl` varchar(256) DEFAULT NULL,
-  PRIMARY KEY (`pv_id`),
-  KEY `i41` (`pv_adr_pdv`),
-  KEY `i42` (`pv_supprime`)
-) ENGINE=InnoDB AUTO_INCREMENT=584 DEFAULT CHARSET=latin1;
+CREATE TABLE `stock` (
+  `s_id` int(32) NOT NULL AUTO_INCREMENT,
+  `s_pdv` int(32) DEFAULT NULL,
+  `s_produit` int(32) DEFAULT NULL,
+  `s_qte` int(32) DEFAULT NULL,
+  `s_lot` varchar(32) DEFAULT NULL,
+  `s_dlc` date DEFAULT NULL,
+  `s_dluo` date DEFAULT NULL,
+  `s_lieu` int(32) DEFAULT NULL,
+  `s_reflieu` varchar(32) DEFAULT NULL,
+  `s_dateentree` datetime DEFAULT NULL,
+  `s_etat` tinyint(1) DEFAULT NULL,
+  `s_vendable` tinyint(1) DEFAULT NULL,
+  `s_prixpromo` int(32) DEFAULT NULL,
+  `s_sommeil` tinyint(1) DEFAULT NULL,
+  `s_x1000` int(16) DEFAULT NULL,
+  `s_faitpar` int(32) DEFAULT NULL,
+  `s_modifie` datetime DEFAULT NULL,
+  `s_source` int(32) NOT NULL DEFAULT '0',
+  `s_livraison` int(32) DEFAULT NULL,
+  PRIMARY KEY (`s_id`),
+  KEY `i54` (`s_pdv`),
+  KEY `i55` (`s_produit`),
+  KEY `i56` (`s_qte`),
+  KEY `i57` (`s_dlc`),
+  KEY `i58` (`s_dluo`),
+  KEY `i100` (`s_source`)
+) ENGINE=InnoDB AUTO_INCREMENT=4207096 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
