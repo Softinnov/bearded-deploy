@@ -2,7 +2,7 @@
 
 Requis :
  - les fichiers ssl pour le https (server.key et server.crt) dans /etc/ssl/private.
-  - un/des fichier(s) .sql ou .txt. 
+   - un/des fichier(s) .sql ou .txt. 
 
 ## Pour MASTER & SLAVE
 
@@ -16,20 +16,29 @@ $ apt-get -y dist-upgrade
 ```
 Afin d'éviter que docker gère les iptables :
 ```sh
+# (old version)
 $ cat <<EOF >> /etc/default/docker
 DOCKER_OPTS="--iptables=false"
 EOF
+
+#(new version, format json)
+sudo sh -c "echo '{ \"iptables\": false }' > /etc/docker/daemon.json"
+
+# Ne pas oublier de relancer le daemon docker
+sudo /etc/init.d/docker restart
+
+# ou bien
+sudo service docker restart
 ```
 
 ```sh
-$ reboot
 $ docker run --rm hello-world
 # Si ça ne fonctionne pas, installer docker une nouvelle fois.
+
 # Pour savoir si les iptables sont toujours bien configurées, 
 $ docker run -d --name test -p 7777:7777 -it ubuntu:14.04 bash
-$ iptables -L | grep 7777
-# Ne doit rien retourner.
-$ docker rm -vf test # clean le container lancé
+$ iptables -L | grep 7777   # Ne doit rien retourner.
+$ docker rm -vf test        # clean le container lancé
 ```
 
 ```sh
@@ -52,8 +61,9 @@ $ docker-compose -f production.yml up -d
 Remettre le container `esc-sys` et le `crontab`
 ```
 # m h  dom mon dow   command
-0 5 1 * * docker run --link prod-db:db -v /var/log:/var/log softinnov/prod-sys /app/update-soldes.sh
-0 1 * * * docker run --link prod-db:db -v /root/backups:/app/backups softinnov/prod-sys /app/mysql-backup.sh
+0 5 1 * * docker run --rm --link prod-db:db -v /var/log:/var/log softinnov/prod-sys /app/update-super-soldes.sh
+0 1 * * * docker run --rm --link prod-db:db -v /root/backups:/app/backups softinnov/prod-sys /app/mysql-backup.sh
+0 0 * * * wget -O /tmp/news.inc http://softinnov.fr/escnews && docker cp /tmp/news.inc beardeddeploy_pdv_1:/esc-pdv/
 ```
 
 ## Pour SLAVE
@@ -99,3 +109,4 @@ $ docker-compose -f production.yml up -d
 ```
 
 _* les containers disponibles sont : consul, registrator, db, pdv, caisse, adm, smtp, back, client, monitor. (le link à consul oblige ce dernier à être pull aussi)_
+
